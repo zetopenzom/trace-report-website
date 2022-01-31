@@ -33,25 +33,19 @@
     <link rel="stylesheet" href="{{asset('plugins/colorbox/colorbox.css')}}">
     <!-- Template styles-->
     <link rel="stylesheet" href="{{asset('css/style.css')}}">
-
 </head>
 
 <body>
     <div class="body-inner">
-
         @include('layouts.topbar')
-
         <!--/ Topbar end -->
         <!-- Header start -->
         @include('layouts.header')
         <!--/ Header end -->
         <!--/ Header end -->
-
         @yield('content')
-
         @include('layouts.footer')
         <!-- Footer end -->
-
 
         <!-- Javascript Files
   ================================================== -->

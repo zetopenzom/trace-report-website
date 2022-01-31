@@ -33,47 +33,6 @@
         </div>
         <!--/ Title row end -->
 
-        <div class="row">
-            <div class="col-md-4">
-                <div class="ts-service-box-bg text-center h-100">
-                    <span class="ts-service-icon icon-round">
-                        <i class="fas fa-map-marker-alt mr-0"></i>
-                    </span>
-                    <div class="ts-service-box-content">
-                        <h4>Visit Our Office</h4>
-                        <p>KSS Group</p>
-                    </div>
-                </div>
-            </div><!-- Col 1 end -->
-
-            <div class="col-md-4">
-                <div class="ts-service-box-bg text-center h-100">
-                    <span class="ts-service-icon icon-round">
-                        <i class="fa fa-envelope mr-0"></i>
-                    </span>
-                    <div class="ts-service-box-content">
-                        <h4>Email Us</h4>
-                        <p>office@kssgroup.com</p>
-                    </div>
-                </div>
-            </div><!-- Col 2 end -->
-
-            <div class="col-md-4">
-                <div class="ts-service-box-bg text-center h-100">
-                    <span class="ts-service-icon icon-round">
-                        <i class="fa fa-phone-square mr-0"></i>
-                    </span>
-                    <div class="ts-service-box-content">
-                        <h4>Call Us</h4>
-                        <p>+62 821-3877-5552</p>
-                    </div>
-                </div>
-            </div><!-- Col 3 end -->
-
-        </div><!-- 1st row end -0.4645449922869426, 117.17477802329604-->
-
-        <div class="gap-60"></div>
-
         <div class="google-map">
             <!-- <div id="map" class="map" data-latitude="-0.4645449922869426" data-longitude="117.17477802329604" data-marker="images/marker.png" data-marker-name="KSS Group"></div> -->
             <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15958.746931912772!2d117.1749926!3d-0.4653389!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x77ea5253cd2d69f7!2sKss%20Group!5e0!3m2!1sen!2sid!4v1634876930882!5m2!1sen!2sid" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy"></iframe>

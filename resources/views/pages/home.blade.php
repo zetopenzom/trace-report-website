@@ -379,65 +379,6 @@
     <!--/ Container end -->
 </section><!-- Content end -->
 
-<section class="subscribe no-padding">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-4">
-                <div class="subscribe-call-to-acton">
-                    <h3>Can We Help?</h3>
-                    <h4>+62 821-3877-5552</h4>
-                </div>
-            </div><!-- Col end -->
-
-            <div class="col-md-8">
-                <div class="ts-newsletter row align-items-center">
-                    <div class="col-md-5 newsletter-introtext">
-                        <h4 class="text-white mb-0">Newsletter Sign-up</h4>
-                        <p class="text-white">Latest updates and news</p>
-                    </div>
-
-                    <div class="col-md-7 newsletter-form">
-                        <form action="#" method="post">
-                            <div class="form-group">
-                                <label for="newsletter-email" class="content-hidden">Newsletter Email</label>
-                                <input type="email" name="email" id="newsletter-email" class="form-control form-control-lg" placeholder="Your your email and hit enter" autocomplete="off">
-                            </div>
-                        </form>
-                    </div>
-                </div><!-- Newsletter end -->
-            </div><!-- Col end -->
-
-        </div><!-- Content row end -->
-    </div>
-    <!--/ Container end -->
-</section>
-<!--/ subscribe end -->
-
-<section id="news" class="news">
-    <div class="container">
-        <div class="row text-center">
-            <div class="col-12">
-                <h2 class="section-title">Work of Excellence</h2>
-                <h3 class="section-sub-title">Recent Projects</h3>
-            </div>
-        </div>
-        <!--/ Title row end -->
-
-        <div class="row text-center">
-            <div class="col-12">
-                <h3>Comming Soon</h3>
-            </div>
-        </div>
-        <!--/ Content row end -->
-
-        <div class="general-btn text-center mt-4">
-            <a class="btn btn-primary" href="news-left-sidebar.html">See All Posts</a>
-        </div>
-
-    </div>
-    <!--/ Container end -->
-</section>
-<!--/ News end -->
 @stop
 
 @push('script')
