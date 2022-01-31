@@ -19,25 +19,6 @@
                                     </div>
                                 </div>
                             </li>
-                            <li>
-                                <div class="info-box">
-                                    <div class="info-box-content">
-                                        <p class="info-box-title">Email Us</p>
-                                        <p class="info-box-subtitle"><a href="mailto:office@kssgroup.id">kssgroupindonesia@gmail.com</a></p>
-                                    </div>
-                                </div>
-                            </li>
-                            <!-- <li class="last">
-                                <div class="info-box last">
-                                    <div class="info-box-content">
-                                        <p class="info-box-title">Global Certificate</p>
-                                        <p class="info-box-subtitle">ISO 9001:2017</p>
-                                    </div>
-                                </div>
-                            </li> -->
-                            <li class="header-get-a-quote">
-                                <a class="btn btn-primary" href="contact.html">Get A Quote</a>
-                            </li>
                         </ul><!-- Ul end -->
                     </div><!-- header right end -->
                 </div><!-- logo area end -->
@@ -69,12 +50,9 @@
                                         <li><a href="{{route('sbi')}}">CV. Sakti Bermuda Indonesia</a></li>
                                     </ul>
                                 </li>
-
-                                <li class="nav-item"><a class="nav-link" href="#">Project</a></li>
                                 <li class="nav-item"><a class="nav-link" href="{{route('strukturkss')}}">Struktur</a></li>
-                                <li class="nav-item"><a class="nav-link" href="#">Service</a></li>
                                 <li class="nav-item {{ Request::segment(1) === 'contact' ? 'active' : '' }}">
-                                    <a class="nav-link" href="{{route('contact')}}">Contact</a>
+                                    <a class="nav-link" href="{{route('contact')}}">Kontak</a>
                                 </li>
                             </ul>
                         </div>

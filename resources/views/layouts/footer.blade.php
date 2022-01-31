@@ -8,11 +8,7 @@
                      <p>KSS group berdiri sebagai perusahaan mandiri yang menyediakan jasa dalam berbagai sektor industri sesuai dengan kebutuhan pembangunan dalam daerah maupun negeri.</p>
                      <div class="footer-social">
                          <ul>
-                             <li><a href="https://facebook.com/KSS Group" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a></li>
-                             <li><a href="https://twitter.com/KSS Group" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
-                             </li>
                              <li><a href="https://instagram.com/KSS Group" aria-label="Instagram"><i class="fab fa-instagram"></i></a></li>
-                             <li><a href="https://github.com/KSS Group" aria-label="Github"><i class="fab fa-github"></i></a></li>
                          </ul>
                      </div><!-- Footer social end -->
                  </div><!-- Col end -->
@@ -23,16 +19,6 @@
                          Kami bekerja 6 hari seminggu. Hubungi kami jika Anda memiliki keadaan darurat, dengan Hotline dan formulir Kontak kami.
                          <br><br> Senin - Jum'at : <span class="text-right">10:00 - 16:00 </span>
                      </div>
-                 </div><!-- Col end -->
-
-                 <div class="col-lg-3 col-md-6 mt-5 mt-lg-0 footer-widget">
-                     <h3 class="widget-title">Services</h3>
-                     <ul class="list-arrow">
-                         <li><a href="#">SHIPPING</a></li>
-                         <li><a href="#">SHIPYARD</a></li>
-                         <li><a href="#">CONTRACTOR</a></li>
-                         <li><a href="#">SUPPLIER</a></li>
-                     </ul>
                  </div><!-- Col end -->
              </div><!-- Row end -->
          </div><!-- Container end -->
