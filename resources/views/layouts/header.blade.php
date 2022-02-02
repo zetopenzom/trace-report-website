@@ -14,7 +14,7 @@
                             <li>
                                 <div class="info-box">
                                     <div class="info-box-content">
-                                        <p class="info-box-title">Call Us</p>
+                                        <p class="info-box-title">Hubungi Kami</p>
                                         <p class="info-box-subtitle"><a href="tel:+62 821-3877-5552">+62 821-3877-5552</a></p>
                                     </div>
                                 </div>
@@ -35,13 +35,12 @@
                         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbar-collapse" aria-expanded="false" aria-label="Toggle navigation">
                             <span class="navbar-toggler-icon"></span>
                         </button>
-
                         <div id="navbar-collapse" class="collapse navbar-collapse">
                             <ul class="nav navbar-nav mr-auto">
-                                <li class="nav-item {{ Request::segment(1) === '/' ? 'active' : '' }}"><a class="nav-link" href="{{route('home')}}">Home</a></li>
+                                <li class="nav-item {{ Request::segment(1) === '/' ? 'active' : '' }}"><a class="nav-link" href="{{route('home')}}">Beranda</a></li>
 
                                 <li class="nav-item dropdown {{ Request::segment(1) === 'about' ? 'active' : '' }}">
-                                    <a href="#" class="nav-link dropdown-toggle " data-toggle="dropdown">About <i class="fa fa-angle-down"></i></a>
+                                    <a href="#" class="nav-link dropdown-toggle " data-toggle="dropdown">Tentang <i class="fa fa-angle-down"></i></a>
                                     <ul class="dropdown-menu" role="menu">
                                         <li><a href="{{route('about')}}">KSS Group</a></li>
                                         <li><a href="{{route('kss')}}">PT. Karya Samudra Sejati</a></li>

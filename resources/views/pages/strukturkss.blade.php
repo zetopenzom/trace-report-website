@@ -8,14 +8,6 @@
                 <div class="col-lg-12">
                     <div class="banner-heading">
                         <h1 class="banner-title">Struktur KSS Group</h1>
-                        <nav aria-label="breadcrumb">
-                            <ol class="breadcrumb justify-content-center">
-                                <li class="breadcrumb-item"><a href="#">Home</a></li>
-                                <li class="breadcrumb-item"><a href="#">Company</a></li>
-                                <li class="breadcrumb-item" aria-current="page">KSS Group</li>
-                                <li class="breadcrumb-item active" aria-current="page">Struktur KSS Group</li>
-                            </ol>
-                        </nav>
                     </div>
                 </div><!-- Col end -->
             </div><!-- Row end -->
@@ -26,11 +18,7 @@
 <section id="main-container" class="main-container">
     <div class="container">
         <div class="row">
-
-           
-
             <div class="col-xl-12 col-lg-12">
-
                 <div class="row justify-content-center">
                     <div class="col-lg-2 col-sm-5 mb-5">
                         <div class="ts-team-wrapper">
@@ -49,10 +37,8 @@
                             </div>
                         </div>
                         <!--/ Team wrapper 1 end -->
-
                     </div><!-- Col end -->
                 </div><!-- Content row 1 end -->
-
                 <div class="row justify-content-center">
                     <div class="col-lg-2 col-sm-5 mb-5">
                         <div class="ts-team-wrapper">
@@ -71,9 +57,7 @@
                             </div>
                         </div>
                         <!--/ Team wrapper 1 end -->
-
                     </div><!-- Col end -->
-
                     <div class="col-lg-2 col-sm-5 mb-5">
                         <div class="ts-team-wrapper">
                             <div class="team-img-wrapper">
@@ -91,9 +75,7 @@
                         </div>
                         <!--/ Team wrapper 2 end -->
                     </div><!-- Col end -->
-
                 </div><!-- Content row 1 end -->
-
                 <div class="row justify-content-center">
                     <div class="col-lg-2 col-md-4 col-sm-6 mb-5">
                         <div class="ts-team-wrapper">
@@ -114,7 +96,6 @@
                         </div>
                         <!--/ Team wrapper 3 end -->
                     </div><!-- Col end -->
-
                     <div class="col-lg-2 col-md-4 col-sm-6 mb-5">
                         <div class="ts-team-wrapper">
                             <div class="team-img-wrapper">
@@ -132,9 +113,7 @@
                             </div>
                         </div>
                         <!--/ Team wrapper 4 end -->
-
                     </div><!-- Col end -->
-
                     <div class="col-lg-2 col-md-4 col-sm-6 mb-5">
                         <div class="ts-team-wrapper">
                             <div class="team-img-wrapper">
@@ -153,7 +132,6 @@
                         </div>
                         <!--/ Team wrapper 5 end -->
                     </div><!-- Col end -->
-
                     <div class="col-lg-2 col-md-4 col-sm-6 mb-5">
                         <div class="ts-team-wrapper">
                             <div class="team-img-wrapper">
@@ -173,7 +151,6 @@
                         </div>
                         <!--/ Team wrapper 6 end -->
                     </div><!-- Col end -->
-
                     <div class="col-lg-2 col-md-4 col-sm-6 mb-5">
                         <div class="ts-team-wrapper">
                             <div class="team-img-wrapper">
@@ -191,7 +168,6 @@
                             </div>
                         </div>
                         <!--/ Team wrapper 4 end -->
-
                     </div><!-- Col end -->
                     
                 </div><!-- Content row end -->
