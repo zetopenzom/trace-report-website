@@ -87,7 +87,7 @@
                                 <img loading="lazy" src="images/team/reza.png" class="img-fluid rounded" alt="Reza Fahlevi">
                             </div>
                             <div class="ts-team-content-classic">
-                                <h3 class="ts-name">Reza Fahlevi</h3>
+                                <h3 class="ts-name">M. Reza Pahlevi</h3>
                                 <p class="ts-designation">Kepala Operasional</p>
                             </div>
                         </div>
