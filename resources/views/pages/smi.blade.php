@@ -27,9 +27,6 @@
                             PT. Samudera Mangkupalas Indonesia atau yang akan dikenal sebagai SMI, perusahaan ini lahir atas pengalaman KSS dan MSG yang menjadikan owner mengembangkan kembali ide bisnis dalam bidang kontraktor dan supplier, perusahaan ini dibuat dengan mencakup segala bidang dari pengadaan skala kecil hingga skala besar termasuk dalam bidang ilmu Teknologi (IT).
                             </p>
                             <p>
-                                SMI merupakan perusahaan baru yang memang belum memiliki pengalaman banyak dalam bidang nya namun manajemen yang memiliki reputasi dalam eksistensi dalam bisnis akan menjangkau hingga pengadaan ekspor - impor dalam batas yang ditentukan.
-                            </p>
-                            <p>
                                 Perusahaan ini sendiri juga melayani setiap bidang industri baik dalam bentuk galian dan pengolahan, maksud dan tujuan nya juga berbagai macam hingga konstruksi bangunan sipil, jalan, hingga jaringan irigasi, komunikasi dan limbah serta mencakup pada perdagangan besar dari logam maupun eceran dan perdagangan khusus lainnya dan aktivitas sewa menyewa guna usaha.
                             </p>
                             <p>

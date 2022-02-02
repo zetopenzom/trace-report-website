@@ -7,7 +7,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="banner-heading">
-                        <h1 class="banner-title">Contact</h1>
+                        <h1 class="banner-title">KONTAK</h1>
                     </div>
                 </div><!-- Col end -->
             </div><!-- Row end -->
@@ -20,8 +20,8 @@
 
         <div class="row text-center">
             <div class="col-12">
-                <h2 class="section-title">Reaching our Office</h2>
-                <h3 class="section-sub-title">Find Our Location</h3>
+                <h2 class="section-title">Kantor Kami</h2>
+                <h3 class="section-sub-title">Temukan Lokasi Kami</h3>
             </div>
         </div>
         <!--/ Title row end -->
@@ -35,7 +35,7 @@
 
         <div class="row">
             <div class="col-md-12">
-                <h3 class="column-title">We love to hear</h3>
+                <h3 class="column-title">Kami Butuh Saran Anda</h3>
                 <!-- contact form works with formspree.io  -->
                 <!-- contact form activation doc: https://docs.KSS Group.com/constra/contact-form/ -->
                 <form id="contact-form" action="#" method="post" role="form">
@@ -43,7 +43,7 @@
                     <div class="row">
                         <div class="col-md-4">
                             <div class="form-group">
-                                <label>Name</label>
+                                <label>Nama</label>
                                 <input class="form-control form-control-name" name="name" id="name" placeholder="" type="text" required>
                             </div>
                         </div>
@@ -55,17 +55,17 @@
                         </div>
                         <div class="col-md-4">
                             <div class="form-group">
-                                <label>Subject</label>
+                                <label>Subyek</label>
                                 <input class="form-control form-control-subject" name="subject" id="subject" placeholder="" required>
                             </div>
                         </div>
                     </div>
                     <div class="form-group">
-                        <label>Message</label>
+                        <label>Pesan</label>
                         <textarea class="form-control form-control-message" name="message" id="message" placeholder="" rows="10" required></textarea>
                     </div>
                     <div class="text-right"><br>
-                        <button class="btn btn-primary solid blank" type="submit">Send Message</button>
+                        <button class="btn btn-primary solid blank" type="submit">Kirim Pesan</button>
                     </div>
                 </form>
             </div>

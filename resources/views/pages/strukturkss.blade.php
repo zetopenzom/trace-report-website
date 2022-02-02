@@ -18,98 +18,65 @@
 <section id="main-container" class="main-container">
     <div class="container">
         <div class="row">
-            <div class="col-xl-12 col-lg-12">
+            <div class="col-xl-12 col-lg-12 text-center">
+
+                <!-- BARIS PERTAMA - RISKA -->
                 <div class="row justify-content-center">
-                    <div class="col-lg-2 col-sm-5 mb-5">
+                    <!-- RISKA -->
+                    <div class="col-lg-4 col-sm-5 mb-5">
                         <div class="ts-team-wrapper">
                             <div class="team-img-wrapper">
-                                <img loading="lazy" src="images/team/team2.jpg" class="img-fluid" alt="team-img">
+                                <img loading="lazy" src="images/team/riska.png" class="img-fluid rounded" alt="Riska Amelia">
                             </div>
                             <div class="ts-team-content-classic">
                                 <h3 class="ts-name">Riska Amelia</h3>
                                 <p class="ts-designation">Direktur Utama</p>
-                                <div class="team-social-icons">
-                                    <a target="_blank" href="#"><i class="fab fa-facebook-f"></i></a>
-                                    <a target="_blank" href="#"><i class="fab fa-twitter"></i></a>
-                                    <a target="_blank" href="#"><i class="fab fa-linkedin"></i></a>
-                                </div>
-                                <!--/ social-icons-->
                             </div>
                         </div>
                         <!--/ Team wrapper 1 end -->
                     </div><!-- Col end -->
                 </div><!-- Content row 1 end -->
+
+                <!-- BARIS KEDUA - SIGIT, PIPIT -->
                 <div class="row justify-content-center">
-                    <div class="col-lg-2 col-sm-5 mb-5">
+                    <!-- SIGIT -->
+                    <div class="col-lg-3 col-sm-5 mb-5">
                         <div class="ts-team-wrapper">
                             <div class="team-img-wrapper">
-                                <img loading="lazy" src="images/team/team1.jpg" class="img-fluid" alt="team-img">
+                                <img loading="lazy" src="images/team/sigit.png" class="img-fluid rounded" alt="Sigit Dwinata">
                             </div>
                             <div class="ts-team-content-classic">
                                 <h3 class="ts-name">Sigit Dwinata</h3>
                                 <p class="ts-designation">Direktur Galangan</p>
-                                <div class="team-social-icons">
-                                    <a target="_blank" href="#"><i class="fab fa-facebook-f"></i></a>
-                                    <a target="_blank" href="#"><i class="fab fa-twitter"></i></a>
-                                    <a target="_blank" href="#"><i class="fab fa-linkedin"></i></a>
-                                </div>
-                                <!--/ social-icons-->
                             </div>
                         </div>
                         <!--/ Team wrapper 1 end -->
                     </div><!-- Col end -->
-                    <div class="col-lg-2 col-sm-5 mb-5">
+                    <!-- PIPIT -->
+                    <div class="col-lg-3 col-sm-5 mb-5">
                         <div class="ts-team-wrapper">
                             <div class="team-img-wrapper">
-                                <img loading="lazy" src="images/team/team2.jpg" class="img-fluid" alt="team-img">
+                                <img loading="lazy" src="images/team/pipit.png" class="img-fluid rounded" alt="Novida Safitri">
                             </div>
                             <div class="ts-team-content-classic">
                                 <h3 class="ts-name">Novida Safitri</h3>
                                 <p class="ts-designation">General Manager</p>
-                                    <a target="_blank" href="#"><i class="fab fa-twitter"></i></a>
-                                    <a target="_blank" href="#"><i class="fab fa-google-plus"></i></a>
-                                    <a target="_blank" href="#"><i class="fab fa-linkedin"></i></a>
-                                </div>
-                                <!--/ social-icons-->
                             </div>
                         </div>
                         <!--/ Team wrapper 2 end -->
                     </div><!-- Col end -->
                 </div><!-- Content row 1 end -->
+
+                <!-- BARIS KETIGA - IMAM, REZA, OSHA, RAFSAN -->
                 <div class="row justify-content-center">
                     <div class="col-lg-2 col-md-4 col-sm-6 mb-5">
                         <div class="ts-team-wrapper">
                             <div class="team-img-wrapper">
-                                <img loading="lazy" src="images/team/team3.jpg" class="img-fluid" alt="team-img">
+                                <img loading="lazy" src="images/team/imam.png" class="img-fluid rounded" alt="Imam Tohari">
                             </div>
                             <div class="ts-team-content-classic">
-                                <h3 class="ts-name">Diantara Indra Putra</h3>
-                                <p class="ts-designation">Operasional Galangan</p>
-                                <div class="team-social-icons">
-                                    <a target="_blank" href="#"><i class="fab fa-facebook-f"></i></a>
-                                    <a target="_blank" href="#"><i class="fab fa-twitter"></i></a>
-                                    <a target="_blank" href="#"><i class="fab fa-google-plus"></i></a>
-                                    <a target="_blank" href="#"><i class="fab fa-linkedin"></i></a>
-                                </div>
-                                <!--/ social-icons-->
-                            </div>
-                        </div>
-                        <!--/ Team wrapper 3 end -->
-                    </div><!-- Col end -->
-                    <div class="col-lg-2 col-md-4 col-sm-6 mb-5">
-                        <div class="ts-team-wrapper">
-                            <div class="team-img-wrapper">
-                                <img loading="lazy" src="images/team/team6.jpg" class="img-fluid" alt="team-img">
-                            </div>
-                            <div class="ts-team-content-classic">
-                                <h3 class="ts-name">Robby Yansyah</h3>
-                                <p class="ts-designation">Operasional Galangan</p>
-                                <div class="team-social-icons">
-                                    <a target="_blank" href="#"><i class="fab fa-facebook-f"></i></a>
-                                    <a target="_blank" href="#"><i class="fab fa-twitter"></i></a>
-                                    <a target="_blank" href="#"><i class="fab fa-linkedin"></i></a>
-                                </div>
-                                <!--/ social-icons-->
+                                <h3 class="ts-name">Imam Tohari</h3>
+                                <p class="ts-designation">Programmer</p>
                             </div>
                         </div>
                         <!--/ Team wrapper 4 end -->
@@ -117,17 +84,11 @@
                     <div class="col-lg-2 col-md-4 col-sm-6 mb-5">
                         <div class="ts-team-wrapper">
                             <div class="team-img-wrapper">
-                                <img loading="lazy" src="images/team/team5.jpg" class="img-fluid" alt="team-img">
+                                <img loading="lazy" src="images/team/reza.png" class="img-fluid rounded" alt="Reza Fahlevi">
                             </div>
                             <div class="ts-team-content-classic">
                                 <h3 class="ts-name">Reza Fahlevi</h3>
                                 <p class="ts-designation">Kepala Operasional</p>
-                                <div class="team-social-icons">
-                                    <a target="_blank" href="#"><i class="fab fa-twitter"></i></a>
-                                    <a target="_blank" href="#"><i class="fab fa-google-plus"></i></a>
-                                    <a target="_blank" href="#"><i class="fab fa-linkedin"></i></a>
-                                </div>
-                                <!--/ social-icons-->
                             </div>
                         </div>
                         <!--/ Team wrapper 5 end -->
@@ -135,18 +96,11 @@
                     <div class="col-lg-2 col-md-4 col-sm-6 mb-5">
                         <div class="ts-team-wrapper">
                             <div class="team-img-wrapper">
-                                <img loading="lazy" src="images/team/team6.jpg" class="img-fluid" alt="team-img">
+                                <img loading="lazy" src="images/team/osha.png" class="img-fluid rounded" alt="Osha Henricus">
                             </div>
                             <div class="ts-team-content-classic">
                                 <h3 class="ts-name">Osha Henricus</h3>
                                 <p class="ts-designation">Staf Operasional</p>
-                                <div class="team-social-icons">
-                                    <a target="_blank" href="#"><i class="fab fa-facebook-f"></i></a>
-                                    <a target="_blank" href="#"><i class="fab fa-twitter"></i></a>
-                                    <a target="_blank" href="#"><i class="fab fa-google-plus"></i></a>
-                                    <a target="_blank" href="#"><i class="fab fa-linkedin"></i></a>
-                                </div>
-                                <!--/ social-icons-->
                             </div>
                         </div>
                         <!--/ Team wrapper 6 end -->
@@ -154,89 +108,18 @@
                     <div class="col-lg-2 col-md-4 col-sm-6 mb-5">
                         <div class="ts-team-wrapper">
                             <div class="team-img-wrapper">
-                                <img loading="lazy" src="images/team/team6.jpg" class="img-fluid" alt="team-img">
+                                <img loading="lazy" src="images/team/team6.jpg" class="img-fluid rounded" alt="M. Rafsanzani">
                             </div>
                             <div class="ts-team-content-classic">
-                                <h3 class="ts-name">Didit Mauliadi</h3>
-                                <p class="ts-designation">Operasional Galangan</p>
-                                <div class="team-social-icons">
-                                    <a target="_blank" href="#"><i class="fab fa-facebook-f"></i></a>
-                                    <a target="_blank" href="#"><i class="fab fa-twitter"></i></a>
-                                    <a target="_blank" href="#"><i class="fab fa-linkedin"></i></a>
-                                </div>
-                                <!--/ social-icons-->
+                                <h3 class="ts-name">M. Rafsanzani</h3>
+                                <p class="ts-designation">Staf Operasional</p>
                             </div>
                         </div>
                         <!--/ Team wrapper 4 end -->
                     </div><!-- Col end -->
-                    
-                </div><!-- Content row end -->
-                
+                </div><!-- Content row end --> 
+
             </div><!-- Content Col end -->
-            <div class="row justify-content-center">
-                <div class="col-lg-2 col-md-4 col-sm-6 mb-5">
-                    <div class="ts-team-wrapper">
-                        <div class="team-img-wrapper">
-                            <img loading="lazy" src="images/team/team3.jpg" class="img-fluid" alt="team-img">
-                        </div>
-                        <div class="ts-team-content-classic">
-                            <h3 class="ts-name">Imam Tohari</h3>
-                            <p class="ts-designation">Programmer</p>
-                            <div class="team-social-icons">
-                                <a target="_blank" href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a target="_blank" href="#"><i class="fab fa-twitter"></i></a>
-                                <a target="_blank" href="#"><i class="fab fa-google-plus"></i></a>
-                                <a target="_blank" href="#"><i class="fab fa-linkedin"></i></a>
-                            </div>
-                            <!--/ social-icons-->
-                        </div>
-                    </div>
-                    <!--/ Team wrapper 3 end -->
-                </div><!-- Col end -->
-
-                <div class="col-lg-2 col-md-4 col-sm-6 mb-5">
-                    <div class="ts-team-wrapper">
-                        <div class="team-img-wrapper">
-                            <img loading="lazy" src="images/team/team6.jpg" class="img-fluid" alt="team-img">
-                        </div>
-                        <div class="ts-team-content-classic">
-                            <h3 class="ts-name">Andry Fahrozy</h3>
-                            <p class="ts-designation">Operasional Kantor</p>
-                            <div class="team-social-icons">
-                                <a target="_blank" href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a target="_blank" href="#"><i class="fab fa-twitter"></i></a>
-                                <a target="_blank" href="#"><i class="fab fa-linkedin"></i></a>
-                            </div>
-                            <!--/ social-icons-->
-                        </div>
-                    </div>
-                    <!--/ Team wrapper 4 end -->
-
-                </div><!-- Col end -->
-
-                <div class="col-lg-2 col-md-4 col-sm-6 mb-5">
-                    <div class="ts-team-wrapper">
-                        <div class="team-img-wrapper">
-                            <img loading="lazy" src="images/team/team5.jpg" class="img-fluid" alt="team-img">
-                        </div>
-                        <div class="ts-team-content-classic">
-                            <h3 class="ts-name">Ferry Ramadhan</h3>
-                            <p class="ts-designation">Office Boy</p>
-                            <div class="team-social-icons">
-                                <a target="_blank" href="#"><i class="fab fa-twitter"></i></a>
-                                <a target="_blank" href="#"><i class="fab fa-google-plus"></i></a>
-                                <a target="_blank" href="#"><i class="fab fa-linkedin"></i></a>
-                            </div>
-                            <!--/ social-icons-->
-                        </div>
-                    </div>
-                    <!--/ Team wrapper 5 end -->
-                </div><!-- Col end -->
-
-                
-            </div><!-- Content row end -->
-
-
         </div><!-- Main row end -->
     </div><!-- Conatiner end -->
 </section><!-- Main container end -->
