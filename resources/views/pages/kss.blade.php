@@ -8,13 +8,6 @@
                 <div class="col-lg-12">
                     <div class="banner-heading">
                         <h1 class="banner-title">PT. Karya Samudra Sejati</h1>
-                        <nav aria-label="breadcrumb">
-                            <ol class="breadcrumb justify-content-center">
-                                <li class="breadcrumb-item"><a href="#">Home</a></li>
-                                <li class="breadcrumb-item"><a href="#">Company</a></li>
-                                <li class="breadcrumb-item active" aria-current="page">PT. Karya Samudra Sejati</li>
-                            </ol>
-                        </nav>
                     </div>
                 </div><!-- Col end -->
             </div><!-- Row end -->
@@ -28,9 +21,7 @@
 
             <div class="col-xl-12 col-lg-12">
                 <div class="content-inner-page">
-
-                    <h2 class="column-title mrt-0">Profile PT. Karya Samudra Sejati</h2>
-
+                    <h2 class="column-title mrt-0">Profil PT. Karya Samudra Sejati</h2>
                     <div class="row">
                         <div class="col-md-12">
                             <p>
@@ -48,7 +39,7 @@
                         </div><!-- col end -->
                         <div class="col-md-12">
                             <br>
-                            <h3 class="column-title-small">Time Charter / Time Charter </h3>
+                            <h3 class="column-title-small">Freight Charter / Time Charter </h3>
 
                             <div class="accordion accordion-group accordion-classic" id="SHIPPING-accordion">
                                 <div class="card">
@@ -84,24 +75,6 @@
                             <!--/ Accordion end -->
                         </div>
                     </div><!-- 1st row end-->
-
-                    <div class="gap-40"></div>
-
-                    <div class="call-to-action classic">
-                        <div class="row align-items-center">
-                            <div class="col-md-8 text-center text-md-left">
-                                <div class="call-to-action-text">
-                                    <h3 class="action-title">INTERESTED WITH KSS GROUP.</h3>
-                                </div>
-                            </div><!-- Col end -->
-                            <div class="col-md-4 text-center text-md-right mt-3 mt-md-0">
-                                <div class="call-to-action-btn">
-                                    <a class="btn btn-primary" href="#">Get a Quote</a>
-                                </div>
-                            </div><!-- col end -->
-                        </div><!-- row end -->
-                    </div><!-- Action end -->
-
                 </div><!-- Content inner end -->
             </div><!-- Content Col end -->
 
