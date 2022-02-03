@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\HomeController;
+use App\Http\Controllers\LandingPageController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -63,3 +64,7 @@ Route::get(
     '/tracereport/registration',
     [HomeController::class, 'registration']
 )->name('registration');
+Route::post(
+    '/tracereport/sendreq',
+    [LandingPageController::class, 'getRequest']
+)->name('getRequest');

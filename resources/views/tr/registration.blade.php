@@ -51,59 +51,62 @@
               <div class="post-details">
                 <div class="main-content-head">
                   <div class="detail-inner p-5">
-                    <div class="row mb-3">
-                      <div class="col-lg-4">Nama</div>
-                      <div class="col-lg-8">
-                        <input type="text" class="form-control" name="nama" />
+                    <form method="post" action="{{ route('getRequest') }}">
+                      @csrf
+                      <div class="row mb-3">
+                        <div class="col-lg-4">Nama</div>
+                        <div class="col-lg-8">
+                          <input type="text" class="form-control" name="nama" />
+                        </div>
                       </div>
-                    </div>
-                    <div class="row mb-3">
-                      <div class="col-lg-4">Perusahaan</div>
-                      <div class="col-lg-8">
-                        <input
-                          type="text"
-                          class="form-control"
-                          name="perusahaan"
-                        />
+                      <div class="row mb-3">
+                        <div class="col-lg-4">Perusahaan</div>
+                        <div class="col-lg-8">
+                          <input
+                            type="text"
+                            class="form-control"
+                            name="perusahaan"
+                          />
+                        </div>
                       </div>
-                    </div>
-                    <div class="row mb-3">
-                      <div class="col-lg-4">Email</div>
-                      <div class="col-lg-8">
-                        <input type="text" class="form-control" name="email" />
+                      <div class="row mb-3">
+                        <div class="col-lg-4">Email</div>
+                        <div class="col-lg-8">
+                          <input type="text" class="form-control" name="email" />
+                        </div>
                       </div>
-                    </div>
-                    <div class="row mb-3">
-                      <div class="col-lg-4">Deskripsi Pekerjaan</div>
-                      <div class="col-lg-8">
-                        <textarea
-                          type="text"
-                          class="form-control"
-                          name="deskripsi"
-                          rows="5"
-                        ></textarea>
+                      <div class="row mb-3">
+                        <div class="col-lg-4">Deskripsi Pekerjaan</div>
+                        <div class="col-lg-8">
+                          <textarea
+                            type="text"
+                            class="form-control"
+                            name="deskripsi"
+                            rows="5"
+                          ></textarea>
+                        </div>
                       </div>
-                    </div>
-                    <div class="row">
-                      <div class="col-lg-12">
-                        <button
-                          type="submit"
-                          class="btn btn-lg btn-primary float-end"
-                        >
-                          Kirim
-                        </button>
+                      <div class="row">
+                        <div class="col-lg-12">
+                          <button
+                            type="submit"
+                            class="btn btn-lg btn-primary float-end"
+                          >
+                            Kirim
+                          </button>
+                        </div>
                       </div>
-                    </div>
-                    <div class="row pt-5">
-                      <div class="col-lg-10">
-                        <hr />
+                      <div class="row pt-5">
+                        <div class="col-lg-10">
+                          <hr />
+                        </div>
+                        <div class="col-lg-2">
+                          <h6 class="mt-2" style="text-align: right">
+                            Trace Report
+                          </h6>
+                        </div>
                       </div>
-                      <div class="col-lg-2">
-                        <h6 class="mt-2" style="text-align: right">
-                          Trace Report
-                        </h6>
-                      </div>
-                    </div>
+                    </form>
                   </div>
                 </div>
               </div>
