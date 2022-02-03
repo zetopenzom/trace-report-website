@@ -47,3 +47,7 @@ Route::get(
     '/contact',
     [HomeController::class, 'contact']
 )->name('contact');
+Route::get(
+    '/tracereport',
+    [HomeController::class, 'tracereport']
+)->name('tracereport');

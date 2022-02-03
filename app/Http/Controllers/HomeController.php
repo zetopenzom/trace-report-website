@@ -39,4 +39,8 @@ class HomeController extends Controller
     {
         return view('pages.contact');
     }
+    public function tracereport()
+    {
+        return view('tr.index');
+    }
 }
