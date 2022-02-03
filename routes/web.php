@@ -51,3 +51,11 @@ Route::get(
     '/tracereport',
     [HomeController::class, 'tracereport']
 )->name('tracereport');
+Route::get(
+    '/tracereport/privacy_policy',
+    [HomeController::class, 'privacy_policy']
+)->name('privacy_policy');
+Route::get(
+    '/tracereport/terms_conditions',
+    [HomeController::class, 'terms_conditions']
+)->name('terms_conditions');

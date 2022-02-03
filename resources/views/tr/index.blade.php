@@ -70,34 +70,34 @@
                 >
                   <ul id="nav" class="navbar-nav ms-auto">
                     <li class="nav-item">
-                      <a href="index.html" aria-label="Toggle navigation"
+                      <a href="{{ route('tracereport') }}" aria-label="Toggle navigation"
                         >Home</a
                       >
                     </li>
                     <li class="nav-item">
                       <a
-                        href="tracereport#features"
+                        href="{{ route('tracereport') }}#features"
                         aria-label="Toggle navigation"
                         >Features</a
                       >
                     </li>
                     <li class="nav-item">
                       <a
-                        href="tracereport#pricing"
+                        href="{{ route('tracereport') }}#pricing"
                         aria-label="Toggle navigation"
                         >Pricing</a
                       >
                     </li>
                     <li class="nav-item">
                       <a
-                        href="privacy_policy.html"
+                        href="{{ route('privacy_policy') }}"
                         aria-label="Toggle navigation"
                         >Privacy Policy</a
                       >
                     </li>
                     <li class="nav-item">
                       <a
-                        href="terms_condition.html"
+                        href="{{ route('terms_conditions') }}"
                         aria-label="Toggle navigation"
                         >Terms & Conditions</a
                       >

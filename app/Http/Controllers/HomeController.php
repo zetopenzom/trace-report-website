@@ -43,4 +43,12 @@ class HomeController extends Controller
     {
         return view('tr.index');
     }
+    public function privacy_policy()
+    {
+        return view('tr.privacy_policy');
+    }
+    public function terms_conditions()
+    {
+        return view('tr.terms_conditions');
+    }
 }

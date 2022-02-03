@@ -12,10 +12,10 @@
         var logo = document.querySelector(".navbar-brand img");
         if (window.pageYOffset > sticky) {
             header_navbar.classList.add("sticky");
-            logo.src = "images/logo/logo.png";
+            logo.src = "../images/logo/logo.png";
         } else {
             header_navbar.classList.remove("sticky");
-            logo.src = "images/logo/white-logo.png";
+            logo.src = "../images/logo/white-logo.png";
         }
         var backToTo = document.querySelector(".scroll-top");
         if (
