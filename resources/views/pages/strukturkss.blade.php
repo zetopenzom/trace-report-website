@@ -108,7 +108,7 @@
                     <div class="col-lg-2 col-md-4 col-sm-6 mb-5">
                         <div class="ts-team-wrapper">
                             <div class="team-img-wrapper">
-                                <img loading="lazy" src="images/team/team6.jpg" class="img-fluid rounded" alt="M. Rafsanzani">
+                                <img loading="lazy" src="images/team/rafsan.png" class="img-fluid rounded" alt="M. Rafsanzani">
                             </div>
                             <div class="ts-team-content-classic">
                                 <h3 class="ts-name">M. Rafsanzani</h3>
