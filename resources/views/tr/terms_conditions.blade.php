@@ -378,7 +378,7 @@
                 <p>Work anywhere, report anytime.</p>
                 <ul class="social">
                   <li>
-                    <a href="https://www.instagram.com/kss_msg/"
+                    <a target="_blank" href="https://www.instagram.com/kss_msg/"
                       ><i class="lni lni-instagram"></i
                     ></a>
                   </li>
@@ -413,9 +413,9 @@
                   <div class="single-footer f-link">
                     <h3>Legal</h3>
                     <ul>
-                      <li><a href="privacy_policy.html">Privacy Policy</a></li>
+                      <li><a href="{{ route('privacy_policy') }}">Privacy Policy</a></li>
                       <li>
-                        <a href="terms_condition.html"
+                        <a href="{{ route('terms_conditions') }}"
                           >Terms &amp; Conditions</a
                         >
                       </li>

@@ -51,4 +51,8 @@ class HomeController extends Controller
     {
         return view('tr.terms_conditions');
     }
+    public function registration()
+    {
+        return view('tr.registration');
+    }
 }

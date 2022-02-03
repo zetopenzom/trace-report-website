@@ -8,16 +8,16 @@
     <link
       rel="shortcut icon"
       type="image/x-icon"
-      href="assets/images/favicon.png"
+      href="{{asset('images/favicon2.png')}}"
     />
 
     <!-- ========================= CSS here ========================= -->
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="assets/css/LineIcons.2.0.css" />
-    <link rel="stylesheet" href="assets/css/animate.css" />
-    <link rel="stylesheet" href="assets/css/tiny-slider.css" />
-    <link rel="stylesheet" href="assets/css/glightbox.min.css" />
-    <link rel="stylesheet" href="assets/css/main.css" />
+    <link rel="stylesheet" href="{{asset('css/bootstrap.min.css')}}" />
+    <link rel="stylesheet" href="{{asset('css/LineIcons.2.0.css')}}" />
+    <link rel="stylesheet" href="{{asset('css/animate.css')}}" />
+    <link rel="stylesheet" href="{{asset('css/tiny-slider.css')}}" />
+    <link rel="stylesheet" href="{{asset('css/glightbox.min.css')}}" />
+    <link rel="stylesheet" href="{{asset('css/main.css')}}" />
   </head>
   <body>
     <!-- Preloader -->
@@ -121,7 +121,7 @@
               <div class="single-footer f-about">
                 <a class="d-flex align-items-center" href="index.html">
                   <img
-                    src="assets/images/logo/white-logo.png"
+                    src="{{asset('images/logo/white-logo.png')}}"
                     class="logo me-3"
                     alt="#"
                   />
@@ -130,7 +130,7 @@
                 <p>Work anywhere, report anytime.</p>
                 <ul class="social">
                   <li>
-                    <a href="https://www.instagram.com/kss_msg/"
+                    <a target="_blank" href="https://www.instagram.com/kss_msg/"
                       ><i class="lni lni-instagram"></i
                     ></a>
                   </li>
@@ -165,9 +165,9 @@
                   <div class="single-footer f-link">
                     <h3>Legal</h3>
                     <ul>
-                      <li><a href="privacy_policy.html">Privacy Policy</a></li>
+                      <li><a href="{{ route('privacy_policy') }}">Privacy Policy</a></li>
                       <li>
-                        <a href="terms_condition.html"
+                        <a href="{{ route('terms_conditions') }}"
                           >Terms &amp; Conditions</a
                         >
                       </li>
@@ -185,17 +185,22 @@
       <i class="lni lni-chevron-up"></i>
     </a>
 
-    <script src="assets/js/bootstrap.min.js"></script>
-    <script src="assets/js/wow.min.js"></script>
-    <script src="assets/js/tiny-slider.js"></script>
-    <script src="assets/js/glightbox.min.js"></script>
-    <script src="assets/js/main.js"></script>
-    <script
-      defer=""
-      src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194"
-      integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw=="
-      data-cf-beacon='{"rayId":"6d5f70d26dae4b5c","version":"2021.12.0","r":1,"token":"e30b4e5ca0154d28b74c094697cafe5d","si":100}'
-      crossorigin="anonymous"
-    ></script>
+    <script src="{{asset('js/bootstrap.min.js')}}"></script>
+    <script src="{{asset('js/wow.min.js')}}"></script>
+    <script src="{{asset('js/tiny-slider.js')}}"></script>
+    <script src="{{asset('js/glightbox.min.js')}}"></script>
+    <script src="{{asset('js/count-up.min.js')}}"></script>
+    <script src="{{asset('js/main.js')}}"></script>
+    <script type="text/javascript">
+      //====== counter up
+      var cu = new counterUp({
+        start: 0,
+        duration: 2000,
+        intvalues: true,
+        interval: 100,
+        append: " ",
+      });
+      cu.start();
+    </script>
   </body>
 </html>

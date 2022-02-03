@@ -59,3 +59,7 @@ Route::get(
     '/tracereport/terms_conditions',
     [HomeController::class, 'terms_conditions']
 )->name('terms_conditions');
+Route::get(
+    '/tracereport/registration',
+    [HomeController::class, 'registration']
+)->name('registration');
