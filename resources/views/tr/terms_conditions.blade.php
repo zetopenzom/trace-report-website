@@ -367,7 +367,7 @@
           <div class="row">
             <div class="col-lg-6 col-md-6 col-12">
               <div class="single-footer f-about">
-                <a class="d-flex align-items-center" href="index.html">
+                <a class="d-flex align-items-center" href="{{ route('tracereport') }}">
                   <img
                     src="{{asset('images/logo/white-logo.png')}}"
                     class="logo me-3"
