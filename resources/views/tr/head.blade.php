@@ -14,3 +14,4 @@
 <link rel="stylesheet" href="{{asset('css/tiny-slider.css')}}" />
 <link rel="stylesheet" href="{{asset('css/glightbox.min.css')}}" />
 <link rel="stylesheet" href="{{asset('css/main.css')}}" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.0/font/bootstrap-icons.css">
