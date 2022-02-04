@@ -27,21 +27,21 @@
             <div class="row">
             <div class="col-lg-3 col-md-6 col-12">
                 <div class="single-footer f-link">
-                <h3>Company</h3>
+                <h3>Perusahaan</h3>
                 <ul>
                     <li>
                     <a target="_blank" href="https://kssgroup.id/about"
-                        >About Us</a
+                        >Tentang Kami</a
                     >
                     </li>
                     <li>
                     <a target="_blank" href="https://kssgroup.id/"
-                        >Our Website</a
+                        >Website</a
                     >
                     </li>
                     <li>
                     <a target="_blank" href="https://kssgroup.id/contact"
-                        >Contact Us</a
+                        >Kontak</a
                     >
                     </li>
                 </ul>
@@ -51,10 +51,10 @@
                 <div class="single-footer f-link">
                 <h3>Legal</h3>
                 <ul>
-                    <li><a href="{{ route('privacy_policy') }}">Privacy Policy</a></li>
+                    <li><a href="{{ route('privacy_policy') }}">Kebijakan Privasi</a></li>
                     <li>
                     <a href="{{ route('terms_conditions') }}"
-                        >Terms &amp; Conditions</a
+                        >Syarat & Ketentuan</a
                     >
                     </li>
                 </ul>

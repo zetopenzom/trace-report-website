@@ -65,6 +65,6 @@ Route::get(
     [HomeController::class, 'registration']
 )->name('registration');
 Route::post(
-    '/tracereport/sendreq',
+    '/tracereport/post_demoaccount',
     [LandingPageController::class, 'getRequest']
 )->name('getRequest');

@@ -12,11 +12,11 @@
             <div class="row">
                 <div class="col-lg-8 offset-lg-2 col-md-12 col-12">
                     <div class="breadcrumbs-content">
-                        <h1 class="page-title">Privacy Policy</h1>
+                        <h1 class="page-title">Kebijakan Privasi</h1>
                     </div>
                     <ul class="breadcrumb-nav">
-                        <li><a href="index.html">Home</a></li>
-                        <li>Privacy Policy</li>
+                        <li><a href="{{ route('tracereport') }}">Beranda</a></li>
+                        <li>Kebijakan Privasi</li>
                     </ul>
                 </div>
             </div>

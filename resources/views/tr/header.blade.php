@@ -37,35 +37,35 @@
                 <ul id="nav" class="navbar-nav ms-auto">
                 <li class="nav-item">
                     <a href="{{ route('tracereport') }}" aria-label="Toggle navigation"
-                    >Home</a
+                    >Beranda</a
                     >
                 </li>
                 <li class="nav-item">
                     <a
                     href="{{ route('tracereport') }}#features"
                     aria-label="Toggle navigation"
-                    >Features</a
+                    >Fitur</a
                     >
                 </li>
                 <li class="nav-item">
                     <a
                     href="{{ route('tracereport') }}#pricing"
                     aria-label="Toggle navigation"
-                    >Pricing</a
+                    >Harga</a
                     >
                 </li>
                 <li class="nav-item">
                     <a
                     href="{{ route('privacy_policy') }}"
                     aria-label="Toggle navigation"
-                    >Privacy Policy</a
+                    >Kebijakan Privasi</a
                     >
                 </li>
                 <li class="nav-item">
                     <a
                     href="{{ route('terms_conditions') }}"
                     aria-label="Toggle navigation"
-                    >Terms & Conditions</a
+                    >Syarat & Ketentuan</a
                     >
                 </li>
                 </ul>

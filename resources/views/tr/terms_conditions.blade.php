@@ -12,11 +12,11 @@
             <div class="row">
                 <div class="col-lg-8 offset-lg-2 col-md-12 col-12">
                     <div class="breadcrumbs-content">
-                        <h1 class="page-title">Terms & Conditions</h1>
+                        <h1 class="page-title">Syarat & Ketentuan</h1>
                     </div>
                     <ul class="breadcrumb-nav">
-                        <li><a href="index.html">Home</a></li>
-                        <li>Terms & Conditions</li>
+                        <li><a href="{{ route('tracereport') }}">Beranda</a></li>
+                        <li>Syarat & Ketentuan</li>
                     </ul>
                 </div>
             </div>
