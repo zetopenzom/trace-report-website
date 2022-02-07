@@ -7,10 +7,10 @@
             <div class="container h-100">
                 <div class="row align-items-center h-100">
                     <div class="col-md-12 text-center">
-                        <h2 class="slide-title" data-animation-in="slideInLeft">12 Tahun Berpengalaman di bidang</h2>
-                        <h3 class="slide-sub-title" data-animation-in="slideInRight">PENGIRIMAN & GALANGAN KAPAL</h3>
+                        <h2 class="slide-title" data-animation-in="slideInLeft">12 Years of excellence in</h2>
+                        <h3 class="slide-sub-title" data-animation-in="slideInRight">SHIPPING & SHIPYARD</h3>
                         <p data-animation-in="slideInLeft" data-duration-in="1.2">
-                            <a href="contact.html" class="slider btn btn-primary border">Hubungi Kami</a>
+                            <a href="{{ route('contact') }}" class="slider btn btn-primary border">Hubungi Kami</a>
                         </p>
                     </div>
                 </div>
@@ -23,11 +23,11 @@
             <div class="container h-100">
                 <div class="row align-items-center h-100">
                     <div class="col-md-12">
-                        <h2 class="slide-title-box" data-animation-in="slideInDown">Pelayanan Kelas Dunia</h2>
-                        <h3 class="slide-title" data-animation-in="fadeIn">Saat Pelayanan Dibutuhkan</h3>
-                        <h3 class="slide-sub-title" data-animation-in="slideInLeft">PILIHAN ANDA SEDERHANA</h3>
+                        <h2 class="slide-title-box" data-animation-in="slideInDown">World Class Service</h2>
+                        <h3 class="slide-title" data-animation-in="fadeIn">When Service Matters</h3>
+                        <h3 class="slide-sub-title" data-animation-in="slideInLeft">Your Choice is Simple</h3>
                         <p data-animation-in="slideInRight">
-                            <a href="contact.html" class="slider btn btn-primary border">Hubungi Kami</a>
+                            <a href="{{ route('contact') }}" class="slider btn btn-primary border">Hubungi Kami</a>
                         </p>
                     </div>
                 </div>
@@ -40,10 +40,10 @@
             <div class="container h-100">
                 <div class="row align-items-center h-100">
                     <div class="col-md-12">
-                        <h2 class="slide-title" data-animation-in="slideInDown">Temui Insinyur Kami</h2>
-                        <h3 class="slide-sub-title" data-animation-in="fadeIn">Kami Percaya Keberlanjutan</h3>
+                        <h2 class="slide-title" data-animation-in="slideInDown">Meet Our Engineers</h2>
+                        <h3 class="slide-sub-title" data-animation-in="fadeIn">We believe sustainability</h3>
                         <div data-animation-in="slideInLeft">
-                            <a href="strukturkss.html" class="slider btn btn-primary border" aria-label="learn-more-about-us">Struktur Perusahaan</a>
+                            <a href="{{ route('contact') }}" class="slider btn btn-primary border">Hubungi Kami</a>
                         </div>
                     </div>
                 </div>
