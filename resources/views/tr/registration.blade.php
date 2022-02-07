@@ -48,7 +48,7 @@
                       <div class="row mb-3">
                         <div class="col-lg-4">Email</div>
                         <div class="col-lg-8">
-                          <input type="text" class="form-control" name="email" required />
+                          <input type="email" class="form-control" name="email" required />
                         </div>
                       </div>
                       <div class="row mb-3">

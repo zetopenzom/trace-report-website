@@ -178,14 +178,54 @@
               <!-- Single Table -->
               <div class="single-table wow fadeInUp" data-wow-delay=".2s">
                 <!-- Table Head -->
-                <div class="table-head">
-                  <h4 class="title">Hobby</h4>
-                  <p>All the basics for starting a new business</p>
+                <div class="table-head text-center">
+                  <h4 class="title">STARTER</h4>
                   <div class="price">
-                    <h2 class="amount">$12<span class="duration">/mo</span></h2>
+                    <h2 class="amount fs-1">Rp. 100K<span class="duration">/user</span></h2>
                   </div>
-                  <div class="button">
-                    <a href="javascript:void(0)" class="btn bg-primary bg-gradient">Get Your Free Trial Now!</a>
+                  <p>Paket untuk di bawah 10 karyawan</p>
+                  <div class="button mt-5">
+                    <a href="{{ route('registration') }}" class="btn bg-primary bg-gradient">Get Your Free Trial Now!</a>
+                  </div>
+                </div>
+                <!-- End Table Head -->
+              </div>
+            </div>
+            <!-- End Single Table-->
+          </div>
+          <div class="col">
+            <div class="d-flex justify-content-center">
+              <!-- Single Table -->
+              <div class="single-table wow fadeInUp" data-wow-delay=".2s">
+                <!-- Table Head -->
+                <div class="table-head text-center">
+                  <h4 class="title fw-bolder">RECOMMENDED</h4>
+                  <div class="price">
+                    <h2 class="amount fs-1">Rp. 80K<span class="duration">/user</span></h2>
+                  </div>
+                  <p>Paket untuk 20-50 karyawan</p>
+                  <div class="button mt-5">
+                    <a href="{{ route('registration') }}" class="btn bg-primary bg-gradient">Get Your Free Trial Now!</a>
+                  </div>
+                </div>
+                <!-- End Table Head -->
+              </div>
+            </div>
+            <!-- End Single Table-->
+          </div>
+          <div class="col">
+            <div class="d-flex justify-content-center">
+              <!-- Single Table -->
+              <div class="single-table wow fadeInUp" data-wow-delay=".2s">
+                <!-- Table Head -->
+                <div class="table-head text-center">
+                  <h4 class="title">BUSINESS</h4>
+                  <div class="price">
+                    <h2 class="amount fs-1">Rp. 65K<span class="duration">/user</span></h2>
+                  </div>
+                  <p>Paket untuk di atas 100 karyawan</p>
+                  <div class="button mt-5">
+                    <a href="{{ route('registration') }}" class="btn bg-primary bg-gradient">Get Your Free Trial Now!</a>
                   </div>
                 </div>
                 <!-- End Table Head -->

@@ -76,7 +76,7 @@
                             </div>
                             <div class="ts-team-content-classic">
                                 <h3 class="ts-name">Imam Tohari</h3>
-                                <p class="ts-designation">Programmer</p>
+                                <p class="ts-designation">Head of IT</p>
                             </div>
                         </div>
                         <!--/ Team wrapper 4 end -->
@@ -88,7 +88,7 @@
                             </div>
                             <div class="ts-team-content-classic">
                                 <h3 class="ts-name">M. Reza Pahlevi</h3>
-                                <p class="ts-designation">Kepala Operasional</p>
+                                <p class="ts-designation">Head of Operational</p>
                             </div>
                         </div>
                         <!--/ Team wrapper 5 end -->
@@ -100,7 +100,7 @@
                             </div>
                             <div class="ts-team-content-classic">
                                 <h3 class="ts-name">Osha Henricus</h3>
-                                <p class="ts-designation">Staf Operasional</p>
+                                <p class="ts-designation">Head of Marketing</p>
                             </div>
                         </div>
                         <!--/ Team wrapper 6 end -->
@@ -112,7 +112,7 @@
                             </div>
                             <div class="ts-team-content-classic">
                                 <h3 class="ts-name">M. Rafsanzani</h3>
-                                <p class="ts-designation">Staf Operasional</p>
+                                <p class="ts-designation">Head of Business Development</p>
                             </div>
                         </div>
                         <!--/ Team wrapper 4 end -->
