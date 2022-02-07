@@ -31,7 +31,7 @@
                       <div class="row mb-3">
                         <div class="col-lg-4">Nama</div>
                         <div class="col-lg-8">
-                          <input type="text" class="form-control" name="nama" />
+                          <input type="text" class="form-control" name="nama" required />
                         </div>
                       </div>
                       <div class="row mb-3">
@@ -41,13 +41,14 @@
                             type="text"
                             class="form-control"
                             name="perusahaan"
+                            required
                           />
                         </div>
                       </div>
                       <div class="row mb-3">
                         <div class="col-lg-4">Email</div>
                         <div class="col-lg-8">
-                          <input type="text" class="form-control" name="email" />
+                          <input type="text" class="form-control" name="email" required />
                         </div>
                       </div>
                       <div class="row mb-3">
@@ -58,6 +59,7 @@
                             class="form-control"
                             name="deskripsi"
                             rows="5"
+                            required
                           ></textarea>
                         </div>
                       </div>

@@ -33,11 +33,11 @@
 
         <div class="gap-40"></div>
 
-        <div class="row">
+        <!-- contact form works with formspree.io  -->
+        <!-- contact form activation doc: https://docs.KSS Group.com/constra/contact-form/ -->
+        <!-- <div class="row">
             <div class="col-md-12">
                 <h3 class="column-title">Kami Butuh Saran Anda</h3>
-                <!-- contact form works with formspree.io  -->
-                <!-- contact form activation doc: https://docs.KSS Group.com/constra/contact-form/ -->
                 <form id="contact-form" action="#" method="post" role="form">
                     <div class="error-container"></div>
                     <div class="row">
@@ -69,8 +69,8 @@
                     </div>
                 </form>
             </div>
-
-        </div><!-- Content row -->
+        </div> -->
+        <!-- Content row -->
     </div><!-- Conatiner end -->
 </section><!-- Main container end -->
 
