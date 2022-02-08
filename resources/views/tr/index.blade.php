@@ -58,7 +58,7 @@
       <div class="container">
         <div class="row">
           <div class="col-12">
-            <div class="section-title">
+            <div class="section-title px-3">
               <h2 class="wow fadeInUp" data-wow-delay=".4s">
                 Project Manajemen Yang Membantu Bisnis Anda Tumbuh
               </h2>
@@ -104,53 +104,11 @@
         <div class="row">
           <div class="col-lg-10 offset-lg-1 col-md-12 col-12">
             <div class="title">
-              <h2>Trusted by developers from over 80 planets</h2>
+              <h2>Aplikasi <i>Project Manajer</i> yang dibuat untuk meningkatkan produktivitas anda</h2>
+              <br><br>
               <p>
-                There are many variations of passages of Lorem Ipsum available,
-                but the majority.
+              Dengan satu Aplikasi, dapatkan kemudahan dalam mengelola project, komunikasi karyawan, Absensi, dan banyak fitur yang akan datang.
               </p>
-            </div>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-lg-8 offset-lg-2 col-md-12 col-12">
-            <div class="row">
-              <div class="col-lg-4 col-md-4 col-12">
-                <div
-                  class="single-achievement wow fadeInUp"
-                  data-wow-delay=".2s"
-                >
-                  <h3 class="counter">
-                    <span id="secondo1" class="countup" cup-end="100">100</span
-                    >%
-                  </h3>
-                  <p>satisfaction</p>
-                </div>
-              </div>
-              <div class="col-lg-4 col-md-4 col-12">
-                <div
-                  class="single-achievement wow fadeInUp"
-                  data-wow-delay=".4s"
-                >
-                  <h3 class="counter">
-                    <span id="secondo2" class="countup" cup-end="120">120</span
-                    >K
-                  </h3>
-                  <p>Happy Users</p>
-                </div>
-              </div>
-              <div class="col-lg-4 col-md-4 col-12">
-                <div
-                  class="single-achievement wow fadeInUp"
-                  data-wow-delay=".6s"
-                >
-                  <h3 class="counter">
-                    <span id="secondo3" class="countup" cup-end="125">125</span
-                    >k+
-                  </h3>
-                  <p>Downloads</p>
-                </div>
-              </div>
             </div>
           </div>
         </div>
@@ -163,17 +121,16 @@
       <div class="container">
         <div class="row">
           <div class="col-12">
-            <div class="section-title">
+            <div class="section-title px-3">
               <h2 class="wow fadeInUp" data-wow-delay=".4s">HARGA</h2>
               <p class="wow fadeInUp" data-wow-delay=".6s">
-                There are many variations of passages of Lorem Ipsum available,
-                but the majority have suffered alteration in some form.
+              Dapatkan penawaran yang cocok untuk bisnis anda!
               </p>
             </div>
           </div>
         </div>
         <div class="row">
-          <div class="col">
+          <div class="col-lg-4">
             <div class="d-flex justify-content-center">
               <!-- Single Table -->
               <div class="single-table wow fadeInUp" data-wow-delay=".2s">
@@ -193,7 +150,7 @@
             </div>
             <!-- End Single Table-->
           </div>
-          <div class="col">
+          <div class="col-lg-4">
             <div class="d-flex justify-content-center">
               <!-- Single Table -->
               <div class="single-table wow fadeInUp" data-wow-delay=".2s">
@@ -213,7 +170,7 @@
             </div>
             <!-- End Single Table-->
           </div>
-          <div class="col">
+          <div class="col-lg-4">
             <div class="d-flex justify-content-center">
               <!-- Single Table -->
               <div class="single-table wow fadeInUp" data-wow-delay=".2s">
@@ -239,21 +196,19 @@
     <!--/ End Pricing Table Area -->
 
     <!-- Start Call To Action Area -->
-    <section class="section call-action">
+    <section class="section call-action pb-3">
       <div class="container">
         <div class="row">
           <div class="col-lg-8 offset-lg-2 col-md-12 col-12">
             <div class="cta-content">
               <h2 class="wow fadeInUp" data-wow-delay=".2s">
-                You are using free Lite <br />Version of Appvilla
+                Coba Gratis
               </h2>
               <p class="wow fadeInUp" data-wow-delay=".4s">
-                Please, purchase full version of the template to get all pages,
-                features and commercial license.
+                Dengan maksimum user sampai dengan 5 orang, rasakan pengalaman terintegrasi langsung dari smartphone anda<sup>*</sup>
               </p>
-              <div class="button wow fadeInUp" data-wow-delay=".6s">
-                <a href="javascript:void(0)" class="btn">Purchase Now</a>
-              </div>
+              <br><br>
+              <p class="wow fadeInUp" data-wow-delay=".4s" style="font-size: 11px;">*uji coba gratis selama satu minggu, hubungin sales officer kami via WA</p>
             </div>
           </div>
         </div>

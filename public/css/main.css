@@ -805,13 +805,11 @@ ol {
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
     .section-title {
         padding: 0 200px;
-        margin-bottom: 70px;
     }
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
     .section-title {
         padding: 0 20px;
-        margin-bottom: 70px;
     }
     .section-title h3 {
         font-size: 14px;
@@ -828,7 +826,6 @@ ol {
 @media (max-width: 767px) {
     .section-title {
         padding: 0 10px;
-        margin-bottom: 60px;
     }
     .section-title h3 {
         font-size: 14px;
@@ -1765,42 +1762,6 @@ ol {
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
     .hero-area .hero-content h1 {
         font-size: 40px;
-    }
-}
-@media only screen and (min-width: 768px) and (max-width: 991px) {
-    .hero-area .hero-content {
-        text-align: center;
-    }
-    .hero-area .hero-content h1 {
-        font-size: 30px;
-        font-weight: 700;
-        line-height: 38px;
-    }
-    .hero-area .hero-content p {
-        font-size: 15px;
-    }
-}
-@media (max-width: 767px) {
-    .hero-area .hero-content {
-        padding: 0 10px;
-        text-align: center;
-    }
-    .hero-area .hero-content h1 {
-        font-size: 24px;
-        line-height: 32px;
-    }
-    .hero-area .hero-content p {
-        margin-top: 15px;
-        font-size: 14px;
-        line-height: 22px;
-    }
-    .hero-area .hero-content .button .btn {
-        width: 60%;
-        margin: 0;
-        margin-bottom: 7px;
-    }
-    .hero-area .hero-content .button .btn:last-child {
-        margin: 0;
     }
 }
 .app-info .info-one {
@@ -3702,6 +3663,9 @@ blockquote span {
         margin-top: 40px;
         text-align: center;
     }
+    .single-footer a {
+        justify-content: center;
+    }
 }
 .footer .single-footer.f-about {
     padding-right: 30px;
@@ -3999,12 +3963,6 @@ blockquote span {
     position: relative;
     font-weight: 800;
 }
-.section-title {
-    text-align: center;
-    padding: 0 250px;
-    position: relative;
-    z-index: 5;
-}
 .features .single-feature i {
     line-height: 60px;
     text-align: center;
@@ -4034,4 +3992,65 @@ blockquote span {
     border: 1px solid #eee;
     -webkit-transition: all 0.5s cubic-bezier(0.68, -0.55, 0.27, 1.55) 0s;
     transition: all 0.5s cubic-bezier(0.68, -0.55, 0.27, 1.55) 0s;
+}
+.text-justify {
+    text-align: justify;
+    text-justify: inter-word;
+}
+.center-justified {
+    text-align: justify;
+    text-align-last: center;
+}
+.section-title {
+    text-align: center;
+    position: relative;
+    z-index: 5;
+}
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .hero-area .hero-content {
+        text-align: center;
+    }
+    .hero-area .hero-content h1,
+    .section-title h2 {
+        font-size: 30px;
+        font-weight: 700;
+        line-height: 38px;
+    }
+    .section-title h3 {
+        font-size: 15px;
+        font-weight: 500;
+        margin-bottom: 6px;
+    }
+    .hero-area .hero-content p {
+        font-size: 15px;
+    }
+}
+@media (max-width: 767px) {
+    .hero-area .hero-content {
+        padding: 0 10px;
+        text-align: center;
+    }
+    .hero-area .hero-content h1,
+    .section-title h2 {
+        font-size: 24px;
+        line-height: 32px;
+    }
+    .section-title h3 {
+        font-size: 13px;
+        font-weight: 400;
+        margin-bottom: 5px;
+    }
+    .hero-area .hero-content p {
+        margin-top: 15px;
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .hero-area .hero-content .button .btn {
+        width: 60%;
+        margin: 0;
+        margin-bottom: 7px;
+    }
+    .hero-area .hero-content .button .btn:last-child {
+        margin: 0;
+    }
 }
