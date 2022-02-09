@@ -26,6 +26,29 @@
               <div class="post-details">
                 <div class="main-content-head">
                   <div class="detail-inner p-5">
+                    <div class='text-center'>
+                    <?php
+                      if (isset($_GET['status'])) {
+                        if ($_GET['status'] == 'success') {
+                    ?>
+                        <h3>Pendaftaran telah berhasil. Terima Kasih telah mendaftarkan diri Anda.</h3>
+                        <h3>Tim maketing kami akan menghubungi Anda dalam waktu 2x24 jam.</h3>
+                        Ikuti kami di Instagram @trace.report atau Email kami di tracereport@kssgroup.id
+                    <?php
+                        } else {
+                    ?>
+                        <h3>Terjadi kesalahan dalam pendaftaran. Mohon coba beberapa saat lagi.</h3>
+                        <br>
+                        <a class="mt-3" href="{{ route('registration') }}">Kembali ke pendaftaran</a>
+                    <?php
+                        }
+                    ?>
+                      <br>
+                      <a class="mt-4" href="{{ route('tracereport') }}">Kembali ke halaman utama</a>
+                    </div>
+                    <?php
+                      } else {
+                    ?>
                     <form method="post" action="{{ route('getRequest') }}">
                       @csrf
                       <div class="row mb-3">
@@ -84,6 +107,9 @@
                         </div>
                       </div>
                     </form>
+                  <?php
+                    }
+                  ?>
                   </div>
                 </div>
               </div>

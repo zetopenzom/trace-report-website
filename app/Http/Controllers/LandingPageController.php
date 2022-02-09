@@ -13,6 +13,10 @@ class LandingPageController extends Controller
             'email' => $request->email,
             'detail' => $request->deskripsi,
         ]);
-        return $response;
+        if ($response["status"] == 'success') {
+            return redirect()->route('registration', ['status' => 'success']);
+        } else {
+            return redirect()->route('registration', ['status' => 'fail']);
+        }
     }
 }

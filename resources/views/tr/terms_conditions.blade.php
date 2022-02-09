@@ -236,7 +236,7 @@
                                         suggestions about our Terms and
                                         Conditions, do not hesitate to
                                         contact us at
-                                        grinlitetohari@gmail.com.
+                                        tracereport@kssgroup.id.
                                     </p>
                                 </div>
                             </div>
