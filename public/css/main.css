@@ -3240,14 +3240,6 @@ blockquote span {
 .call-action .cta-content .button {
     margin-top: 40px;
 }
-.call-action .cta-content .button .btn {
-    background-color: #fff;
-    color: #0d6efd;
-}
-.call-action .cta-content .button .btn:hover {
-    color: #fff;
-    background-color: #081828;
-}
 .contact-us {
     position: relative;
     background-color: #fff;
@@ -4053,4 +4045,15 @@ blockquote span {
     .hero-area .hero-content .button .btn:last-child {
         margin: 0;
     }
+}
+.call-action .cta-content .button .btn {
+    background-color: #fff;
+    color: #0d6efd;
+    line-height: 50px;
+    font-size: 38px;
+    font-weight: 700;
+}
+.call-action .cta-content .button .btn:hover {
+    color: #fff;
+    background-color: #081828;
 }

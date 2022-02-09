@@ -103,7 +103,7 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-10 offset-lg-1 col-md-12 col-12">
-            <div class="title">
+            <div class="title wow fadeInUp" data-wow-delay=".4s">
               <h2>Aplikasi <i>Project Manajer</i> yang dibuat untuk meningkatkan produktivitas anda</h2>
               <br><br>
               <p>
@@ -196,16 +196,18 @@
     <!--/ End Pricing Table Area -->
 
     <!-- Start Call To Action Area -->
-    <section class="section call-action pb-3">
+    <section class="section call-action pb-3 pt-5">
       <div class="container">
         <div class="row">
           <div class="col-lg-8 offset-lg-2 col-md-12 col-12">
             <div class="cta-content">
-              <h2 class="wow fadeInUp" data-wow-delay=".2s">
-                Coba Gratis
-              </h2>
-              <p class="wow fadeInUp" data-wow-delay=".4s">
-                Dengan maksimum user sampai dengan 5 orang, rasakan pengalaman terintegrasi langsung dari smartphone anda<sup>*</sup>
+              <div class="button mb-4 wow fadeInUp" data-wow-delay=".2s">
+                <a href="{{ route('registration') }}" class="btn" style="border-radius: 10px;">
+                    Coba Gratis
+                </a>
+              </div>
+              <p class="wow fadeInUp fs-5" data-wow-delay=".4s">
+                Dapatkan pengalaman penuh - Tanpa iklan, tanpa batasan.<sup>*</sup>
               </p>
               <br><br>
               <p class="wow fadeInUp" data-wow-delay=".4s" style="font-size: 11px;">*uji coba gratis selama satu minggu, hubungin sales officer kami via WA</p>
