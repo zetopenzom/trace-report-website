@@ -34,15 +34,7 @@
                                     class="meta-information pt-5 ps-5 pe-5 pb-0"
                                 >
                                     <h3 class="post-title">
-                                        <img
-                                            src="{{asset('images/logo/kss.png')}}"
-                                            alt="kss"
-                                            class="logo me-3"
-                                        />
-                                        KSS GROUP - Terms & Conditions
-                                    </h3>
-                                    <h3>
-                                        PT. SAMUDERA MANGKUPALAS INDONESIA
+                                        Trace Report - Terms & Conditions
                                     </h3>
                                 </div>
                                 <div
