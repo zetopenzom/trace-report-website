@@ -69,7 +69,7 @@
           </div>
         </div>
         <div class="row">
-          <div class="col-lg-4 col-md-6 col-12">
+          <div class="col-lg-3 col-md-6 col-12">
             <!-- Start Single Feature -->
             <div class="single-feature wow fadeInUp text-center" data-wow-delay=".2s">
               <i class="bi bi-person-circle p-3"></i>
@@ -77,7 +77,7 @@
             </div>
             <!-- End Single Feature -->
           </div>
-          <div class="col-lg-4 col-md-6 col-12">
+          <div class="col-lg-3 col-md-6 col-12">
             <!-- Start Single Feature -->
             <div class="single-feature wow fadeInUp text-center" data-wow-delay=".4s">
               <i class="bi bi-file-earmark-text p-3"></i>
@@ -85,11 +85,19 @@
             </div>
             <!-- End Single Feature -->
           </div>
-          <div class="col-lg-4 col-md-6 col-12">
+          <div class="col-lg-3 col-md-6 col-12">
             <!-- Start Single Feature -->
             <div class="single-feature wow fadeInUp text-center" data-wow-delay=".6s">
               <i class="bi bi-geo-alt p-3"></i>
               <h3>Sales Tracker</h3>
+            </div>
+            <!-- End Single Feature -->
+          </div>
+          <div class="col-lg-3 col-md-6 col-12">
+            <!-- Start Single Feature -->
+            <div class="single-feature wow fadeInUp text-center" data-wow-delay=".8s">
+              <i class="bi bi-people-fill p-3"></i>
+              <h3>Team Collaboration</h3>
             </div>
             <!-- End Single Feature -->
           </div>

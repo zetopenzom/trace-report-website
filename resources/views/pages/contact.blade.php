@@ -24,7 +24,6 @@
                 <h3 class="section-sub-title">Temukan Lokasi Kami</h3>
             </div>
         </div>
-        <!--/ Title row end -->
 
         <div class="google-map">
             <!-- <div id="map" class="map" data-latitude="-0.4645449922869426" data-longitude="117.17477802329604" data-marker="images/marker.png" data-marker-name="KSS Group"></div> -->
@@ -33,6 +32,12 @@
 
         <div class="gap-40"></div>
 
+        <div class="row text-center">
+            <div class="col-12">
+                <h3 class="section-sub-title mb-5">Email Kami</h3>
+                <span style="font-size: 20px;" class="border p-3 rounded">tracereport@kssgroup.id</span>
+            </div>
+        </div>
         <!-- contact form works with formspree.io  -->
         <!-- contact form activation doc: https://docs.KSS Group.com/constra/contact-form/ -->
         <!-- <div class="row">

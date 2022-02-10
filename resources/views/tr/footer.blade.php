@@ -16,7 +16,7 @@
             <p>Work anywhere, report anytime.</p>
             <ul class="social">
                 <li>
-                <a target="_blank" href="https://www.instagram.com/kss_msg/"
+                <a target="_blank" href="https://www.instagram.com/trace.report/"
                     ><i class="lni lni-instagram"></i
                 ></a>
                 </li>
@@ -30,7 +30,7 @@
                 <h3>Perusahaan</h3>
                 <ul>
                     <li>
-                    <a target="_blank" href="https://kssgroup.id/about"
+                    <a target="_blank" href="{{ route('about') }}"
                         >Tentang Kami</a
                     >
                     </li>
@@ -40,7 +40,7 @@
                     >
                     </li>
                     <li>
-                    <a target="_blank" href="https://kssgroup.id/contact"
+                    <a target="_blank" href="{{ route('contact') }}"
                         >Kontak</a
                     >
                     </li>
