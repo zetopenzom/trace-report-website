@@ -35,7 +35,7 @@
         <div class="row text-center">
             <div class="col-12">
                 <h3 class="section-sub-title mb-5">Email Kami</h3>
-                <span style="font-size: 20px;" class="border p-3 rounded">tracereport@kssgroup.id</span>
+                <span style="font-size: 20px;" class="border p-3 rounded">kss_pt@ymail.com</span>
             </div>
         </div>
         <!-- contact form works with formspree.io  -->
