@@ -226,6 +226,37 @@
     </section>
     <!-- End Call To Action Area -->
 
+    <!-- Start Gallery Area -->
+    <section id="video" class="features section">
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <div class="section-title px-3">
+              <h2 class="wow fadeInUp" data-wow-delay=".4s">
+                Galeri Kami
+              </h2>
+            </div>
+          </div>
+          <div class="col-lg-4 py-3">
+            <div class="d-flex justify-content-center">
+              <iframe width="560" height="315" src="https://www.youtube.com/embed/gMe1c4UegBY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+          </div>
+          <div class="col-lg-4 py-3">
+            <div class="d-flex justify-content-center">
+              <iframe width="560" height="315" src="https://www.youtube.com/embed/NsY-9MCOIAQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+          </div>
+          <div class="col-lg-4 py-3">
+            <div class="d-flex justify-content-center">
+              <iframe width="560" height="315" src="https://www.youtube.com/embed/Xmxcnf2v_gs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- End Gallery Area -->
+
     @include('tr.footer')
     @include('tr.script')    
   </body>
