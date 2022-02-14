@@ -229,7 +229,7 @@
     <!-- End Call To Action Area -->
 
     <!-- Start Gallery Area -->
-    <section id="video" class="features section">
+    <!-- <section id="video" class="features section">
       <div class="container">
         <div class="row">
           <div class="col-12">
@@ -256,7 +256,7 @@
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
     <!-- End Gallery Area -->
 
     @include('tr.footer')
