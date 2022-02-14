@@ -60,7 +60,7 @@
                             </div>
                             <div class="ts-team-content-classic">
                                 <h3 class="ts-name">Novida Safitri</h3>
-                                <p class="ts-designation">General Manager</p>
+                                <p class="ts-designation">Shipping Director</p>
                             </div>
                         </div>
                         <!--/ Team wrapper 2 end -->

@@ -4057,3 +4057,45 @@ blockquote span {
     color: #fff;
     background-color: #081828;
 }
+@media screen and (max-width: 575px) {
+    #google,
+    #apple {
+        border-radius: 14px;
+        width: 60%;
+    }
+}
+@media screen and (min-width: 576px) {
+    #google,
+    #apple {
+        border-radius: 14px;
+        width: 60%;
+    }
+}
+@media screen and (min-width: 768px) {
+    #google,
+    #apple {
+        border-radius: 11px;
+        width: 30%;
+    }
+}
+@media screen and (min-width: 992px) {
+    #google,
+    #apple {
+        border-radius: 7px;
+        width: 40%;
+    }
+}
+@media screen and (min-width: 1200px) {
+    #google,
+    #apple {
+        border-radius: 8px;
+        width: 35%;
+    }
+}
+@media screen and (min-width: 1400px) {
+    #google,
+    #apple {
+        border-radius: 9px;
+        width: 30%;
+    }
+}

@@ -25,14 +25,16 @@
                 <a
                   href="https://apps.apple.com/id/app/trace-report/id1588671675?l=id"
                   target="_blank"
-                  class="btn"
-                  ><i class="lni lni-apple"></i> App Store</a
+                  class="btn p-0 bg-transparent"
+                  id="apple"
+                  ><img src="{{asset('images/logo/appstore.jpg')}}" alt="#" /></a
                 >
                 <a
                   href="https://play.google.com/store/apps/details?id=id.kssgroup.tracereport"
                   target="_blank"
-                  class="btn"
-                  ><i class="lni lni-play-store"></i> Google Play</a
+                  class="btn p-0 bg-transparent"
+                  id="google"
+                  ><img src="{{asset('images/logo/googleplay.jpg')}}" alt="#" /></a
                 >
               </div>
               <div class="button wow fadeInLeft" data-wow-delay=".8s">
