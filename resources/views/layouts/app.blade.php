@@ -33,6 +33,14 @@
     <link rel="stylesheet" href="{{asset('plugins/colorbox/colorbox.css')}}">
     <!-- Template styles-->
     <link rel="stylesheet" href="{{asset('css/style.css')}}">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-8R380P4BNT"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-8R380P4BNT');
+    </script>
 </head>
 
 <body>
