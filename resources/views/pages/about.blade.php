@@ -36,9 +36,6 @@
                             <p>
                                 Nilai - nilai perusahaan filosofi yang mendasari prilaku bagi seluruh jajaran perusahaan dalam berintekasi, mitra usaha hingga pemegang saham, dalam kemitraan perusahaan akan memberikan layanan untuk meningkatkan pengalaman yang kaya bagi relasi, kami mementingkan pengalaman ini melalui integritas pekerjaan kami dengan rasa hormat dan tanggung jawab.
                             </p>
-                            <p>
-                                Nilai - nilai perusahaan filosofi yang mendasari prilaku bagi seluruh jajaran perusahaan dalam berintekasi, mitra usaha hingga pemegang saham, dalam kemitraan perusahaan akan memberikan layanan untuk meningkatkan pengalaman yang kaya bagi relasi, kami mementingkan pengalaman ini melalui integritas pekerjaan kami dengan rasa hormat dan tanggung jawab.
-                            </p>
                             <img src="{{asset('images/pages/kss-1.jpg')}}" class="img-fluid" width="100%" alt="kss group 1" />
                             <p>
                                 Kami mengoperasikan kapal dengan aman yang diatur dengan crew hingga perwira yang profesional dengan standar peraturan pelayaran Nasional, peraturan klasifikasi, standar asosiasi industri kemaritiman dan peraturan pemerintah serta hukum yang berlaku.sebagai perseroan yang memiliki hubungan dengan berbagai pihak didalam maupun luar negeri dengan penerapan prisip Good Corporate Goverance (GCG) merupakan suatu keharusan.

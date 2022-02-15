@@ -208,6 +208,17 @@
     <!--/ Container end -->
 </section><!-- Facts end -->
 
+<section id="video" class="py-5 copyright text-center">
+    <h3 class="text-light section-sub-title">PROFIL KSS GROUP</h3>
+    <div class="row d-flex justify-content-center">
+        <div class="col-lg-6 col-md-8 col-sm-10 col-10">
+            <div class="embed-responsive embed-responsive-16by9">
+                <iframe src="https://www.youtube.com/embed/kzpFU7bvk3w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+        </div>
+    </div>
+</section>
+
 <section id="ts-service-area" class="ts-service-area pb-0">
     <div class="container">
         <div class="row text-center">
