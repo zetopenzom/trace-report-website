@@ -31,7 +31,7 @@
                 <h4>Alamat Lengkap</h4>
                 <h5>Jl. Bukit Alaya, Ruko Alaya Junction, Blok LE18<br>Sungai Pinang Dalam, Sungai Pinang, Samarinda<br>Kalimantan Timur, Indonesia</h5>
                 <h4 class="mt-5">Email Kami</h4>
-                <h5>kss_pt@ymail.com</h5>
+                <h5>tracereport@kssgroup.id</h5>
             </div>
         </div>
     </div><!-- Conatiner end -->
