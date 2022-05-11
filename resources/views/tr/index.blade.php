@@ -60,7 +60,9 @@
         </div>
       </div>
     </section>
-    <img class="w-100" src="{{asset('images/hero/footer.png')}}" alt="#" />
+    <div class="hero-area-footer">
+      <img class="w-100" src="{{asset('images/hero/footer.png')}}" alt="#" />
+    </div>
     <!-- End Hero Area -->
 
     <!-- Start Features Area -->
@@ -69,45 +71,39 @@
         <div class="row">
           <div class="col-12">
             <div class="section-title px-3">
-              <h2 class="wow fadeInUp" data-wow-delay=".4s">
-                Project Manajemen Yang Membantu Bisnis Anda Tumbuh
+              <h3 class="wow fadeInUp color-custom-gray1 fw-bolder" data-wow-delay=".4s">Our features</h3>
+              <h2 class="wow fadeInUp color-custom-gray1" data-wow-delay=".4s">
+                The various features we provide to make your  business more powerful
               </h2>
-              <p class="wow fadeInUp mt-5" data-wow-delay=".6s">
-                <h3 class="wow zoomIn" data-wow-delay=".2s">FITUR UTAMA</h3>
-              </p>
             </div>
           </div>
         </div>
         <div class="row">
-          <div class="col-lg-3 col-md-6 col-12">
+          <div class="col-lg-3 col-md-6 col-12 p-0">
             <!-- Start Single Feature -->
-            <div class="single-feature wow fadeInUp text-center" data-wow-delay=".2s">
-              <i class="bi bi-person-circle p-3"></i>
-              <h3>Absensi</h3>
+            <div class="wow fadeInUp text-center" data-wow-delay=".2s">
+              <img src="{{asset('images/features/Absensi.png')}}" alt="#" />
             </div>
             <!-- End Single Feature -->
           </div>
-          <div class="col-lg-3 col-md-6 col-12">
+          <div class="col-lg-3 col-md-6 col-12 p-0">
             <!-- Start Single Feature -->
-            <div class="single-feature wow fadeInUp text-center" data-wow-delay=".4s">
-              <i class="bi bi-file-earmark-text p-3"></i>
-              <h3>Project Management</h3>
+            <div class="wow fadeInUp text-center" data-wow-delay=".4s">
+              <img src="{{asset('images/features/Kolab Tim.png')}}" alt="#" />
             </div>
             <!-- End Single Feature -->
           </div>
-          <div class="col-lg-3 col-md-6 col-12">
+          <div class="col-lg-3 col-md-6 col-12 p-0">
             <!-- Start Single Feature -->
-            <div class="single-feature wow fadeInUp text-center" data-wow-delay=".6s">
-              <i class="bi bi-geo-alt p-3"></i>
-              <h3>Sales Tracker</h3>
+            <div class="wow fadeInUp text-center" data-wow-delay=".6s">
+              <img src="{{asset('images/features/Manajemen Proyek.png')}}" alt="#" />
             </div>
             <!-- End Single Feature -->
           </div>
-          <div class="col-lg-3 col-md-6 col-12">
+          <div class="col-lg-3 col-md-6 col-12 p-0">
             <!-- Start Single Feature -->
-            <div class="single-feature wow fadeInUp text-center" data-wow-delay=".8s">
-              <i class="bi bi-people-fill p-3"></i>
-              <h3>Team Collaboration</h3>
+            <div class="wow fadeInUp text-center" data-wow-delay=".8s">
+              <img src="{{asset('images/features/Sales Tracking.png')}}" alt="#" />
             </div>
             <!-- End Single Feature -->
           </div>

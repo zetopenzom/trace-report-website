@@ -1865,7 +1865,7 @@ ol {
     margin-top: 35px;
 }
 .features {
-    background-color: #f9f9f9;
+    background-color: #c9daf7;
 }
 .features .single-feature:hover {
     -webkit-box-shadow: 0 3px 5px #00000017;
@@ -3970,8 +3970,6 @@ blockquote span {
     font-weight: 600;
     display: block;
     margin-bottom: 8px;
-    color: #116dff;
-    text-transform: uppercase;
 }
 .features .single-feature {
     text-align: left;
