@@ -14,6 +14,7 @@
 <link rel="stylesheet" href="{{asset('css/tiny-slider.css')}}" />
 <link rel="stylesheet" href="{{asset('css/glightbox.min.css')}}" />
 <link rel="stylesheet" href="{{asset('css/main.css')}}" />
+<link rel="stylesheet" href="{{asset('css/custom.css')}}" />
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.0/font/bootstrap-icons.css">
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZKD5N1HNSE"></script>

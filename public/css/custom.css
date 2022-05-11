@@ -1,0 +1,29 @@
+.hero-area .hero-content .button .btn-border-white {
+    color: #fff;
+    margin-right: 12px;
+    display: inline-block;
+    text-transform: capitalize;
+    font-size: 15px;
+    font-weight: 600;
+    padding: 10px 0;
+    color: #fff;
+    border: none;
+    -webkit-transition: 0.2s;
+    transition: 0.2s;
+    border-radius: 5px;
+    position: relative;
+    z-index: 1;
+    margin-right: 7px;
+    overflow: hidden;
+    width: 300px;
+}
+.ellipse1 {
+    position: absolute;
+    top: -160px;
+}
+.ellipse2 {
+    position: absolute;
+    bottom: -50px;
+    z-index: -1;
+    height: 60%;
+}

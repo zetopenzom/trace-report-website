@@ -10,49 +10,57 @@
 
     <!-- Start Hero Area -->
     <section id="home" class="hero-area">
+      <img class="ellipse1" src="{{asset('images/hero/ellipse1.png')}}" alt="#" />
       <div class="container">
         <div class="row align-items-center">
           <div class="col-lg-5 col-md-12 col-12">
             <div class="hero-content">
-              <h1 class="wow fadeInLeft" data-wow-delay=".4s">
-                Work Anywhere,<br />Report Anytime
+              <img class="ellipse2" src="{{asset('images/hero/ellipse2.png')}}" alt="#" />
+              <h1 class="wow fadeInLeft fs-40 mb-4" data-wow-delay=".4s" style="font-size: 60px;">
+                Trace Report
               </h1>
-              <p class="wow fadeInLeft" data-wow-delay=".6s">
-                All-in-One App<br />
-                Manage your projects professionally with us
+              <h4 class="wow fadeInLeft text-white" data-wow-delay=".4s">
+                Work Anywhere, Report Anytime
+              </h4>
+              <p class="wow fadeInLeft mb-5" data-wow-delay=".6s">
+                All-in-One app<br />
+                Manage your project <b>Professionally</b> with us
               </p>
-              <div class="button wow fadeInLeft" data-wow-delay=".8s">
-                <a
-                  href="https://apps.apple.com/id/app/trace-report/id1588671675?l=id"
-                  target="_blank"
-                  class="btn p-0 bg-transparent"
-                  id="apple"
-                  ><img src="{{asset('images/logo/appstore.jpg')}}" alt="#" /></a
-                >
+              <h5 class="wow fadeInLeft text-white text-center mt-5" data-wow-delay=".4s">
+                <b>Now Available On :</b>
+              </h5>
+              <div class="button wow fadeInLeft text-center my-3" data-wow-delay=".8s">
                 <a
                   href="https://play.google.com/store/apps/details?id=id.kssgroup.tracereport"
                   target="_blank"
                   class="btn p-0 bg-transparent"
                   id="google"
-                  ><img src="{{asset('images/logo/googleplay.jpg')}}" alt="#" /></a
+                  ><img src="{{asset('images/logo/googleplay.png')}}" alt="#" /></a
+                >
+                <a
+                  href="https://apps.apple.com/id/app/trace-report/id1588671675?l=id"
+                  target="_blank"
+                  class="btn p-0 bg-transparent"
+                  id="apple"
+                  ><img src="{{asset('images/logo/appstore.png')}}" alt="#" /></a
                 >
               </div>
-              <div class="button wow fadeInLeft" data-wow-delay=".8s">
-                <a href="{{ route('registration') }}" class="btn"
-                  ><i class="lni lni-pencil"></i> Daftar untuk mencoba
-                  sekarang!</a
+              <div class="button wow fadeInLeft text-center" data-wow-delay=".8s">
+                <a href="{{ route('registration') }}" class="btn-border-white border border-1 border-white rounded-pill"
+                  ><i class="lni lni-pencil text-start"></i> Daftar untuk coba gratis!</a
                 >
               </div>
             </div>
           </div>
           <div class="col-lg-7 col-md-12 col-12">
             <div class="hero-image wow fadeInRight" data-wow-delay=".4s">
-              <img src="{{asset('images/hero/phone2.png')}}" alt="#" />
+              <img src="{{asset('images/hero/phone.png')}}" alt="#" />
             </div>
           </div>
         </div>
       </div>
     </section>
+    <img class="w-100" src="{{asset('images/hero/footer.png')}}" alt="#" />
     <!-- End Hero Area -->
 
     <!-- Start Features Area -->
