@@ -60,7 +60,7 @@
         </div>
       </div>
     </section>
-    <div class="hero-area-footer">
+    <div class="bg-custom-blue1">
       <img class="w-100" src="{{asset('images/hero/footer.png')}}" alt="#" />
     </div>
     <!-- End Hero Area -->
@@ -113,7 +113,7 @@
     <!-- End Features Area -->
 
     <!-- Start Achievement Area -->
-    <section class="our-achievement section">
+    <!-- <section class="our-achievement section">
       <div class="container">
         <div class="row">
           <div class="col-lg-10 offset-lg-1 col-md-12 col-12">
@@ -127,11 +127,11 @@
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
     <!-- End Achievement Area -->
 
     <!-- Start Pricing Table Area -->
-    <section id="pricing" class="pricing-table section">
+    <!-- <section id="pricing" class="pricing-table section">
       <div class="container">
         <div class="row">
           <div class="col-12">
@@ -146,9 +146,7 @@
         <div class="row">
           <div class="col-lg-4">
             <div class="d-flex justify-content-center">
-              <!-- Single Table -->
               <div class="single-table wow fadeInUp" data-wow-delay=".2s">
-                <!-- Table Head -->
                 <div class="table-head text-center">
                   <h4 class="title">STARTER</h4>
                   <div class="price">
@@ -159,16 +157,12 @@
                     <a href="{{ route('registration') }}" class="btn bg-primary bg-gradient">Get Your Free Trial Now!</a>
                   </div>
                 </div>
-                <!-- End Table Head -->
               </div>
             </div>
-            <!-- End Single Table-->
           </div>
           <div class="col-lg-4">
             <div class="d-flex justify-content-center">
-              <!-- Single Table -->
               <div class="single-table wow fadeInUp" data-wow-delay=".2s">
-                <!-- Table Head -->
                 <div class="table-head text-center">
                   <h4 class="title fw-bolder">RECOMMENDED</h4>
                   <div class="price">
@@ -179,16 +173,12 @@
                     <a href="{{ route('registration') }}" class="btn bg-primary bg-gradient">Get Your Free Trial Now!</a>
                   </div>
                 </div>
-                <!-- End Table Head -->
               </div>
             </div>
-            <!-- End Single Table-->
           </div>
           <div class="col-lg-4">
             <div class="d-flex justify-content-center">
-              <!-- Single Table -->
               <div class="single-table wow fadeInUp" data-wow-delay=".2s">
-                <!-- Table Head -->
                 <div class="table-head text-center">
                   <h4 class="title">BUSINESS</h4>
                   <div class="price">
@@ -199,35 +189,25 @@
                     <a href="{{ route('registration') }}" class="btn bg-primary bg-gradient">Get Your Free Trial Now!</a>
                   </div>
                 </div>
-                <!-- End Table Head -->
               </div>
             </div>
-            <!-- End Single Table-->
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
     <!--/ End Pricing Table Area -->
 
     <!-- Start Call To Action Area -->
-    <section class="section call-action pb-3 pt-5">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-8 offset-lg-2 col-md-12 col-12">
-            <div class="cta-content">
-              <div class="button mb-4 wow fadeInUp" data-wow-delay=".2s">
-                <a href="{{ route('registration') }}" class="btn" style="border-radius: 10px;">
-                    Coba Gratis
-                </a>
-              </div>
-              <p class="wow fadeInUp fs-5" data-wow-delay=".4s">
-                Dapatkan pengalaman penuh - Tanpa iklan, tanpa batasan.<sup>*</sup>
-              </p>
-              <br><br>
-              <p class="wow fadeInUp" data-wow-delay=".4s" style="font-size: 11px;">*uji coba gratis selama satu minggu, hubungin sales officer kami via WA</p>
-            </div>
-          </div>
+    <section class="section bg-custom-blue1 pb-5 pt-5">
+      <div class="container text-center pb-5">
+        <div class="button mb-4 wow fadeInUp" data-wow-delay=".2s">
+          <a href="{{ route('registration') }}" class="btn rounded-pill shadow fs-4" id="signin">
+              Sign in for Free
+          </a>
         </div>
+        <p class="wow fadeInUp text-dark" data-wow-delay=".4s">
+          Dapatkan pengalaman penuh - Tanpa iklan, tanpa batasan<sup>*</sup>
+        </p>
       </div>
     </section>
     <!-- End Call To Action Area -->

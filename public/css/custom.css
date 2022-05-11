@@ -27,9 +27,16 @@
     z-index: -1;
     height: 60%;
 }
-.hero-area-footer {
+.bg-custom-blue1 {
     background-color: #c9daf7;
 }
 .color-custom-gray1 {
     color: #4d4c50;
+}
+.color-custom-blue1 {
+    color: #c9daf7;
+}
+.button #signin {
+    background-image: linear-gradient(#074af5, #1400ff);
+    padding: 15px 30px;
 }

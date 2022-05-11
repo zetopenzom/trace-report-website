@@ -1381,7 +1381,7 @@ ol {
     box-shadow: 0 20px 50px 0 rgba(0, 0, 0, 0.05);
     -webkit-transition: all 0.3s ease-out 0s;
     transition: all 0.3s ease-out 0s;
-    background: #fff;
+    background: #c9daf7;
     padding: 0 0;
 }
 .navbar {
@@ -3625,11 +3625,8 @@ blockquote span {
     margin-bottom: 20px;
 }
 .footer {
-    background-color: #081828;
+    background-color: #595757;
     position: relative;
-}
-.footer .footer-top {
-    padding: 100px 0;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
     .footer .footer-top {
@@ -4072,6 +4069,9 @@ blockquote span {
     #apple {
         border-radius: 11px;
         width: 30%;
+    }
+    .perusahaan {
+        float: right;
     }
 }
 @media screen and (min-width: 992px) {
