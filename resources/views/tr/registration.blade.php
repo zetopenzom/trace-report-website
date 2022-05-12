@@ -52,13 +52,16 @@
                     </div>
                   <?php
                     } else {
+                      if (isset($_GET['email'])) {
+                        $email = $_GET['email'];
+                      }
                   ?>
                     <form method="post" action="{{ route('getRequest') }}">
                       @csrf
                       <div class="row mb-3">
                         <div class="col-lg-4">Nama</div>
                         <div class="col-lg-8">
-                          <input type="text" class="form-control" name="nama" required />
+                          <input type="text" class="form-control" name="nama" autofocus required />
                         </div>
                       </div>
                       <div class="row mb-3">
@@ -75,7 +78,7 @@
                       <div class="row mb-3">
                         <div class="col-lg-4">Email</div>
                         <div class="col-lg-8">
-                          <input type="email" class="form-control" name="email" required />
+                          <input type="email" class="form-control" name="email" value="<?= $email; ?>" required />
                         </div>
                       </div>
                       <div class="row mb-3">

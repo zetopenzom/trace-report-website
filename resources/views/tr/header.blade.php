@@ -1,5 +1,5 @@
 <!-- Start Header Area -->
-<header class="header navbar-area">
+<header class="header navbar-area shadow">
     <div class="container">
     <div class="row align-items-center">
         <div class="col-lg-12">
@@ -47,13 +47,13 @@
                     >Fitur</a
                     >
                 </li>
-                <li class="nav-item">
+                <!-- <li class="nav-item">
                     <a
                     href="{{ route('tracereport') }}#pricing"
                     aria-label="Toggle navigation"
                     >Harga</a
                     >
-                </li>
+                </li> -->
                 <li class="nav-item">
                     <a
                     href="{{ route('privacy_policy') }}"
@@ -66,6 +66,13 @@
                     href="{{ route('terms_conditions') }}"
                     aria-label="Toggle navigation"
                     >Syarat & Ketentuan</a
+                    >
+                </li>
+                <li class="nav-item">
+                    <a
+                    href="{{ route('contact') }}"
+                    aria-label="Toggle navigation"
+                    >Kontak</a
                     >
                 </li>
                 </ul>

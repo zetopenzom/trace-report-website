@@ -1,0 +1,99 @@
+@media screen and (max-width: 575px) {
+    .hero-area .hero-content #hero_tr {
+        font-size: 40px;
+        margin-bottom: 1rem;
+        margin-top: 1rem;
+    }
+    .hero-area .hero-content #hero_wara {
+        font-size: 15px;
+    }
+    #google,
+    #apple {
+        width: 30%;
+    }
+}
+
+@media screen and (min-width: 576px) {
+    .hero-area .hero-content #hero_tr {
+        font-size: 50px;
+        margin-bottom: 2rem;
+        margin-top: 2rem;
+    }
+    .hero-area .hero-content #hero_wara {
+        font-size: 20px;
+    }
+    #google,
+    #apple {
+        width: 40%;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .hero-area .hero-content #hero_tr {
+        font-size: 90px;
+        margin-bottom: 3rem;
+        margin-top: 3rem;
+    }
+    .hero-area .hero-content #hero_wara {
+        font-size: 30px;
+    }
+    #google,
+    #apple {
+        width: 30%;
+    }
+    .perusahaan {
+        float: right;
+    }
+    .daftar-email {
+        width: 70%;
+    }
+}
+
+@media screen and (min-width: 992px) {
+    .hero-area .hero-content #hero_tr {
+        font-size: 70px;
+        margin-bottom: 1.5rem;
+    }
+    .hero-area .hero-content #hero_wara {
+        font-size: 20px;
+    }
+    #google,
+    #apple {
+        width: 40%;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    .hero-area .hero-content #hero_tr {
+        font-size: 80px;
+        margin-bottom: 2rem;
+    }
+    .hero-area .hero-content #hero_wara {
+        font-size: 25px;
+    }
+    #google,
+    #apple {
+        width: 35%;
+    }
+    .daftar-email {
+        width: 70%;
+    }
+}
+
+@media screen and (min-width: 1400px) {
+    .hero-area .hero-content #hero_tr {
+        font-size: 100px;
+        margin-bottom: 3rem;
+        text-shadow: 0 3px 7px #404040;
+    }
+    .hero-area .hero-content #hero_wara {
+        font-size: 30px;
+    }
+    #google,
+    #apple {
+        width: 30%;
+    }
+    .daftar-email {
+        width: 75%;
+    }
+}

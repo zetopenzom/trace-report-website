@@ -1096,7 +1096,7 @@ ol {
 }
 .header {
     width: 100%;
-    background: #4d91ff;
+    background: #12176bcc;
     position: absolute;
     width: 100%;
     left: 0;
@@ -1381,7 +1381,7 @@ ol {
     box-shadow: 0 20px 50px 0 rgba(0, 0, 0, 0.05);
     -webkit-transition: all 0.3s ease-out 0s;
     transition: all 0.3s ease-out 0s;
-    background: #c9daf7;
+    background: #fff;
     padding: 0 0;
 }
 .navbar {
@@ -1600,17 +1600,11 @@ ol {
 .hero-area {
     position: relative;
     padding: 160px 0 0;
-    background: #116dff;
+    background-image: linear-gradient(to right, #6f75ed, #b0b4ff);
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-    .hero-area {
-        padding: 150px 0 60px;
-    }
 }
 @media (max-width: 767px) {
-    .hero-area {
-        padding: 120px 0 50px;
-    }
 }
 .hero-area .hero-image img {
     width: 100%;
@@ -1618,11 +1612,13 @@ ol {
 @media only screen and (min-width: 768px) and (max-width: 991px) {
     .hero-area .hero-image {
         margin-top: 40px;
+        width: 50%;
     }
 }
 @media (max-width: 767px) {
     .hero-area .hero-image {
         margin-top: 40px;
+        width: 50%;
     }
 }
 .hero-area .hero-content {
@@ -1648,8 +1644,8 @@ ol {
     color: #fff;
 }
 .hero-area .hero-content .button .btn {
-    background-color: #fff;
-    color: #116dff;
+    background-image: linear-gradient(#66f522, #0b8700);
+    color: #fff;
     margin-right: 12px;
 }
 .hero-area .hero-content .button .btn i {
@@ -4031,7 +4027,6 @@ blockquote span {
         line-height: 22px;
     }
     .hero-area .hero-content .button .btn {
-        width: 60%;
         margin: 0;
         margin-bottom: 7px;
     }
@@ -4049,49 +4044,4 @@ blockquote span {
 .call-action .cta-content .button .btn:hover {
     color: #fff;
     background-color: #081828;
-}
-@media screen and (max-width: 575px) {
-    #google,
-    #apple {
-        border-radius: 14px;
-        width: 60%;
-    }
-}
-@media screen and (min-width: 576px) {
-    #google,
-    #apple {
-        border-radius: 14px;
-        width: 60%;
-    }
-}
-@media screen and (min-width: 768px) {
-    #google,
-    #apple {
-        border-radius: 11px;
-        width: 30%;
-    }
-    .perusahaan {
-        float: right;
-    }
-}
-@media screen and (min-width: 992px) {
-    #google,
-    #apple {
-        border-radius: 7px;
-        width: 40%;
-    }
-}
-@media screen and (min-width: 1200px) {
-    #google,
-    #apple {
-        border-radius: 8px;
-        width: 35%;
-    }
-}
-@media screen and (min-width: 1400px) {
-    #google,
-    #apple {
-        border-radius: 9px;
-        width: 30%;
-    }
 }
