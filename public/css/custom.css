@@ -40,6 +40,12 @@
     background-image: linear-gradient(#074af5, #1400ff);
     padding: 15px 30px;
 }
+#promo {
+    height: 500px;
+    background-image: url("../images/promo/promo-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 .mb-custom-1 {
     margin-bottom: 1rem;
 }

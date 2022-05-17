@@ -1096,7 +1096,7 @@ ol {
 }
 .header {
     width: 100%;
-    background: #12176bcc;
+    background: #2359d3;
     position: absolute;
     width: 100%;
     left: 0;
@@ -1600,7 +1600,9 @@ ol {
 .hero-area {
     position: relative;
     padding: 160px 0 0;
-    background-image: linear-gradient(to right, #6f75ed, #b0b4ff);
+    background-image: url("../images/hero/hero-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
 }

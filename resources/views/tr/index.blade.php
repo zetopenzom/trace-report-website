@@ -17,7 +17,7 @@
               <h1 id="hero_tr" class="wow fadeInLeft fs-40 fw-bold text-shadow" data-wow-delay=".4s">
                 TRACE REPORT
               </h1>
-              <h4 id="hero_wara" class="wow fadeInLeft text-white text-center" data-wow-delay=".4s">
+              <h4 id="hero_wara" class="wow fadeInLeft text-white" data-wow-delay=".4s">
                 Work Anywhere, Report Anytime
               </h4>
               <h5 class="wow fadeInLeft text-white text-center mt-5" data-wow-delay=".4s">
@@ -107,6 +107,14 @@
       </div>
     </section>
     <!-- End Features Area -->
+
+    <!-- Start Promotion Area -->
+    <section id="promo" class="w-100">
+      <div class="h-100 d-flex justify-content-center align-items-center">
+        <h1>Promotion Space</h1>
+      </div>
+    </section>
+    <!-- End Promotion Area -->
 
     <!-- Start Achievement Area -->
     <!-- <section class="our-achievement section">
