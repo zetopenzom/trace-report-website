@@ -79,6 +79,13 @@
 .logo-footer {
     width: 75px;
 }
+.btn-blue {
+    background-image: linear-gradient(#2b5bcc, #0034b0);
+    color: white;
+}
+.mt-custom-5 {
+    margin-top: 5rem;
+}
 .mb-custom-1 {
     margin-bottom: 1rem;
 }
