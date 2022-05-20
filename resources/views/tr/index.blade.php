@@ -51,9 +51,11 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-5 col-md-12 col-12 d-flex justify-content-center">
-            <div class="hero-image wow fadeInRight" data-wow-delay=".4s">
-              <img src="{{asset('images/hero/phone.png')}}" alt="#" />
+          <div class="col-lg-5 col-md-12 col-12" id="phone">
+            <div class="d-flex justify-content-center">
+              <div class="hero-image wow fadeInRight" data-wow-delay=".4s">
+                <img src="{{asset('images/hero/phone.png')}}" alt="#" />
+              </div>
             </div>
           </div>
         </div>

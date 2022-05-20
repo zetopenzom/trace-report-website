@@ -28,6 +28,15 @@
     }
 }
 
+@media screen and (max-width: 768px) {
+    #phone {
+        display: none;
+    }
+    .hero-content {
+        padding-bottom: 100px;
+    }
+}
+
 @media screen and (min-width: 768px) {
     .hero-area .hero-content #hero_tr {
         font-size: 90px;
@@ -46,6 +55,19 @@
     }
     .daftar-email {
         width: 70%;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    #phone {
+        display: none;
+    }
+    .hero-content {
+        background-image: url("../images/hero/phone2.png");
+        background-repeat: no-repeat;
+        background-size: contain;
+        background-position: center;
+        padding-bottom: 100px;
     }
 }
 
