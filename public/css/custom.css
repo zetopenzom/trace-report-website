@@ -76,6 +76,9 @@
 #salestracking img.transparent {
     opacity: 0;
 }
+.logo-footer {
+    width: 75px;
+}
 .mb-custom-1 {
     margin-bottom: 1rem;
 }

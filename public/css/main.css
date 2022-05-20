@@ -3623,7 +3623,7 @@ blockquote span {
     margin-bottom: 20px;
 }
 .footer {
-    background-color: #595757;
+    background-color: #166dff;
     position: relative;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -3724,17 +3724,17 @@ blockquote span {
 .footer .single-footer.f-link li a {
     font-size: 15px;
     font-weight: 400;
-    color: #d2d6dc;
+    color: #fff;
 }
 .footer .single-footer.f-link li a:hover {
-    color: #116dff;
+    color: #d9d9d9;
 }
 .footer .single-footer h3 {
     font-size: 18px;
     font-weight: 600;
     display: block;
     margin-bottom: 35px;
-    color: #d2d6dc;
+    color: #fff;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
     .footer .single-footer h3 {
