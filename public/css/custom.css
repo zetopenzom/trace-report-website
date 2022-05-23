@@ -83,6 +83,12 @@
     background-image: linear-gradient(#2b5bcc, #0034b0);
     color: white;
 }
+#resp-download-regist {
+    width: 90%;
+}
+#btn-gabung {
+    width: 90%;
+}
 .mt-custom-5 {
     margin-top: 5rem;
 }

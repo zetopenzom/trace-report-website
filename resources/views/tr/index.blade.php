@@ -20,34 +20,38 @@
               <h4 id="hero_wara" class="wow fadeInLeft text-white" data-wow-delay=".4s">
                 Work Anywhere, Report Anytime
               </h4>
-              <h5 class="wow fadeInLeft text-white text-center mt-5" data-wow-delay=".4s">
+              <h4 class="wow fadeInLeft text-white text-center mt-5" data-wow-delay=".4s">
                 <b>Now Available On :</b>
-              </h5>
-              <div class="button wow fadeInLeft text-center my-3" data-wow-delay=".8s">
-                <a
-                  href="https://play.google.com/store/apps/details?id=id.kssgroup.tracereport"
-                  target="_blank"
-                  class="p-0 bg-transparent"
-                  id="google"
-                  ><img src="{{asset('images/logo/googleplay.png')}}" alt="#" /></a
-                >
-                <a
-                  href="https://apps.apple.com/id/app/trace-report/id1588671675?l=id"
-                  target="_blank"
-                  class="p-0 bg-transparent"
-                  id="apple"
-                  ><img src="{{asset('images/logo/appstore.png')}}" alt="#" /></a
-                >
-              </div>
-              <div class="button wow fadeInLeft text-center" data-wow-delay=".8s">
-                <form method="get" action="{{ route('registration') }}">
+              </h4>
+              <div class="d-flex justify-content-center w-100">
+                <div id="resp-download-regist">
+                  <div class="button wow fadeInLeft my-3 text-center" data-wow-delay=".8s">
+                    <a
+                      href="https://play.google.com/store/apps/details?id=id.kssgroup.tracereport"
+                      target="_blank"
+                      class="p-0 bg-transparent w-45"
+                      ><img src="{{asset('images/logo/googleplay.png')}}" alt="#" class="w-100" /></a
+                    >
+                    <a
+                      href="https://apps.apple.com/id/app/trace-report/id1588671675?l=id"
+                      target="_blank"
+                      class="p-0 bg-transparent w-45"
+                      ><img src="{{asset('images/logo/appstore.png')}}" alt="#" class="w-100" /></a
+                    >
+                  </div>
                   <div class="d-flex justify-content-center">
-                    <div class="input-group daftar-email">
-                      <input type="email" name="email" class="form-control" placeholder="Daftarkan email untuk coba gratis" required>
-                      <button type="submit" class="btn">Gabung</button>
+                    <div id="btn-gabung" class="button wow fadeInLeft" data-wow-delay=".8s">
+                      <form method="get" action="{{ route('registration') }}">
+                        <div class="d-flex justify-content-center">
+                          <div class="input-group daftar-email">
+                            <input type="email" name="email" class="form-control" placeholder="Daftarkan email untuk coba gratis" required>
+                            <button type="submit" class="btn m-0">Daftar</button>
+                          </div>
+                        </div>
+                      </form>
                     </div>
                   </div>
-                </form>
+                </div>
               </div>
             </div>
           </div>

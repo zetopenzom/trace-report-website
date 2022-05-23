@@ -1,5 +1,5 @@
 <!-- Start Footer Area -->
-<footer class="footer p-5">
+<footer class="footer py-5">
     <div class="container">
         <div class="row">
             <div class="col-lg-3 col-md-6 col-12">

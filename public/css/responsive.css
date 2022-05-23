@@ -7,10 +7,6 @@
     .hero-area .hero-content #hero_wara {
         font-size: 15px;
     }
-    #google,
-    #apple {
-        width: 30%;
-    }
     #border-features {
         height: 1600px;
     }
@@ -18,16 +14,12 @@
 
 @media screen and (min-width: 576px) {
     .hero-area .hero-content #hero_tr {
-        font-size: 50px;
+        font-size: 60px;
         margin-bottom: 2rem;
         margin-top: 2rem;
     }
     .hero-area .hero-content #hero_wara {
         font-size: 20px;
-    }
-    #google,
-    #apple {
-        width: 40%;
     }
     #border-features {
         height: 1400px;
@@ -55,15 +47,8 @@
     .hero-area .hero-content #hero_wara {
         font-size: 30px;
     }
-    #google,
-    #apple {
-        width: 30%;
-    }
     .f-about {
         float: right;
-    }
-    .daftar-email {
-        width: 70%;
     }
     #border-features {
         height: 600px;
@@ -91,10 +76,6 @@
     .hero-area .hero-content #hero_wara {
         font-size: 20px;
     }
-    #google,
-    #apple {
-        width: 40%;
-    }
     #border-features {
         height: 200px;
     }
@@ -111,13 +92,6 @@
     .hero-area .hero-content #hero_wara {
         font-size: 25px;
     }
-    #google,
-    #apple {
-        width: 35%;
-    }
-    .daftar-email {
-        width: 70%;
-    }
     #border-features {
         height: 250px;
     }
@@ -132,13 +106,7 @@
     .hero-area .hero-content #hero_wara {
         font-size: 30px;
     }
-    #google,
-    #apple {
-        width: 30%;
-    }
-    .daftar-email {
-        width: 75%;
-    }
+
     #border-features {
         height: 300px;
     }
