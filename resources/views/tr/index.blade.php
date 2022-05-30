@@ -110,7 +110,7 @@
           </div>
           <div class="col-lg-3 col-md-6 col-12 p-0">
             <!-- Start Single Feature -->
-            <div class="wow fadeInUp text-center h-100" data-wow-delay=".6s" id="manajemenproyek">
+            <div class="wow fadeInUp text-center h-100" data-wow-delay=".4s" id="manajemenproyek">
               <img src="{{asset('images/features/Manajemen Proyek (1).png')}}" class="bottom p-5" alt="#" />
               <img src="{{asset('images/features/Manajemen Proyek.png')}}" class="top p-5" alt="#" />
               <div class="w-100 h-100">
@@ -123,7 +123,7 @@
           </div>
           <div class="col-lg-3 col-md-6 col-12 p-0">
             <!-- Start Single Feature -->
-            <div class="wow fadeInUp text-center h-100" data-wow-delay=".4s" id="kolabtim">
+            <div class="wow fadeInUp text-center h-100" data-wow-delay=".6s" id="kolabtim">
               <img src="{{asset('images/features/Kolab Tim (1).png')}}" class="bottom p-5" alt="#" />
               <img src="{{asset('images/features/Kolab Tim.png')}}" class="top p-5" alt="#" />
               <div class="w-100 h-100">
