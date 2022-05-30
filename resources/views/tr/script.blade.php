@@ -19,17 +19,25 @@
     cu.start();
 
     $(document).ready(function() {
-        $("#absensi").click(function() {
-            $("#absensi img.top").toggleClass("transparent");
+        $("#absensi").hover(function() {
+            $("#absensi img.top").addClass("transparent");
+        }, function() {
+            $("#absensi img.top").removeClass("transparent");
         });
-        $("#kolabtim").click(function() {
-            $("#kolabtim img.top").toggleClass("transparent");
+        $("#kolabtim").hover(function() {
+            $("#kolabtim img.top").addClass("transparent");
+        }, function() {
+            $("#kolabtim img.top").removeClass("transparent");
         });
-        $("#manajemenproyek").click(function() {
-            $("#manajemenproyek img.top").toggleClass("transparent");
+        $("#manajemenproyek").hover(function() {
+            $("#manajemenproyek img.top").addClass("transparent");
+        }, function() {
+            $("#manajemenproyek img.top").removeClass("transparent");
         });
-        $("#salestracking").click(function() {
-            $("#salestracking img.top").toggleClass("transparent");
+        $("#salestracking").hover(function() {
+            $("#salestracking img.top").addClass("transparent");
+        }, function() {
+            $("#salestracking img.top").removeClass("transparent");
         });
     });
 

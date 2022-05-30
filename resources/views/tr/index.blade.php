@@ -68,7 +68,7 @@
     <!-- End Hero Area -->
 
     <!-- Start Video Area -->
-    <section id="video" class="features section">
+    <!-- <section id="video" class="features section">
       <div class="container">
         <div class="row">
           <div class="col-lg-12">
@@ -81,7 +81,7 @@
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
     <!-- End Gallery Area -->
 
     <!-- Start Features Area -->
@@ -100,14 +100,11 @@
             <div class="wow fadeInUp text-center h-100" data-wow-delay=".2s" id="absensi">
               <img src="{{asset('images/features/Absensi (1).png')}}" class="bottom p-5" alt="#" />
               <img src="{{asset('images/features/Absensi.png')}}" class="top p-5" alt="#" />
-            </div>
-            <!-- End Single Feature -->
-          </div>
-          <div class="col-lg-3 col-md-6 col-12 p-0">
-            <!-- Start Single Feature -->
-            <div class="wow fadeInUp text-center h-100" data-wow-delay=".4s" id="kolabtim">
-              <img src="{{asset('images/features/Kolab Tim (1).png')}}" class="bottom p-5" alt="#" />
-              <img src="{{asset('images/features/Kolab Tim.png')}}" class="top p-5" alt="#" />
+              <div class="w-100 h-100">
+                <div class="w-100 h-100 d-flex align-items-center">
+                  <img src="{{asset('images/features/Absensi (2).png')}}" class="px-3" alt="#" />
+                </div>
+              </div>
             </div>
             <!-- End Single Feature -->
           </div>
@@ -116,6 +113,24 @@
             <div class="wow fadeInUp text-center h-100" data-wow-delay=".6s" id="manajemenproyek">
               <img src="{{asset('images/features/Manajemen Proyek (1).png')}}" class="bottom p-5" alt="#" />
               <img src="{{asset('images/features/Manajemen Proyek.png')}}" class="top p-5" alt="#" />
+              <div class="w-100 h-100">
+                <div class="w-100 h-100 d-flex align-items-center">
+                  <img src="{{asset('images/features/Manajemen Proyek (2).png')}}" class="px-3" alt="#" />
+                </div>
+              </div>
+            </div>
+            <!-- End Single Feature -->
+          </div>
+          <div class="col-lg-3 col-md-6 col-12 p-0">
+            <!-- Start Single Feature -->
+            <div class="wow fadeInUp text-center h-100" data-wow-delay=".4s" id="kolabtim">
+              <img src="{{asset('images/features/Kolab Tim (1).png')}}" class="bottom p-5" alt="#" />
+              <img src="{{asset('images/features/Kolab Tim.png')}}" class="top p-5" alt="#" />
+              <div class="w-100 h-100">
+                <div class="w-100 h-100 d-flex align-items-center">
+                  <img src="{{asset('images/features/Kolab Tim (2).png')}}" class="px-3" alt="#" />
+                </div>
+              </div>
             </div>
             <!-- End Single Feature -->
           </div>
@@ -124,6 +139,11 @@
             <div class="wow fadeInUp text-center h-100" data-wow-delay=".8s" id="salestracking">
               <img src="{{asset('images/features/Sales Tracking (1).png')}}" class="bottom p-5" alt="#" />
               <img src="{{asset('images/features/Sales Tracking.png')}}" class="top p-5" alt="#" />
+              <div class="w-100 h-100">
+                <div class="w-100 h-100 d-flex align-items-center">
+                  <img src="{{asset('images/features/Sales Tracking (2).png')}}" class="px-3" alt="#" />
+                </div>
+              </div>
             </div>
             <!-- End Single Feature -->
           </div>
