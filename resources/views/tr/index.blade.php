@@ -68,20 +68,20 @@
     <!-- End Hero Area -->
 
     <!-- Start Video Area -->
-    <!-- <section id="video" class="features section">
+    <section id="video" class="features section">
       <div class="container">
         <div class="row">
           <div class="col-lg-12">
             <div class="d-flex justify-content-center">
               <video width="100%" controls autoplay muted loop>
-                <source src="{{asset('video/example.mp4')}}" type="video/mp4">
+                <source src="{{asset('video/tracereport.mp4')}}" type="video/mp4">
                 Your browser does not support the video tag.
               </video>
             </div>
           </div>
         </div>
       </div>
-    </section> -->
+    </section>
     <!-- End Gallery Area -->
 
     <!-- Start Features Area -->
@@ -90,7 +90,7 @@
         <div class="row">
           <div class="col-12">
             <div class="section-title px-3">
-              <h1 class="wow fadeInUp color-custom-gray1 fw-bolder mb-3" data-wow-delay=".4s">Fitur</h1>
+              <h1 id="fitur-title" class="wow fadeInUp color-custom-gray1 fw-bolder mb-4" data-wow-delay=".4s">Fitur</h1>
             </div>
           </div>
         </div>
