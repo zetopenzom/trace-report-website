@@ -66,7 +66,7 @@
                       <!-- email -->
                       <div class="mb-3">
                         <label>Email</label>
-                          <input type="email" class="form-control" name="email" value="<?= $email; ?>" required />
+                          <input type="email" class="form-control" name="email" value="" required />
                       </div>
                       <!-- desc -->
                       <div class="mb-3">
